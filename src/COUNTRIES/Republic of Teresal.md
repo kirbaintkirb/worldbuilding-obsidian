@@ -26,3 +26,7 @@ Teresal was founded initially during the colonization period by Papoli and Limme
 Papoli arrived in Teresal in 1670, folllowed by Limme in 1677
 
 As the colonization process continued, the main commodities changed to agricultural products like honey and coffee, and most recently, extraction of [[Nacreous Lazilun]], which was found in an international deposit between [[Chrysopelagi]] and {Neighbor 2}.
+
+## Politics
+
+Teresal is a Democratic Theocracy, meaning, every 5 years there is a national referendum that chooses a religious scripture to be followed as law. While officially the process lends to complexity given each text is it's own constitution, there exists a baseline of rules and precedents that either all parties agree as universal, or all parties agree it's beneficial.

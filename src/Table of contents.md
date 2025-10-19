@@ -23,12 +23,12 @@
 	- [[Telemach]]
 - Apetra:
 	- [[Alda]]
-- Pole:
-	- [[Acuvalli]]
+	- [[Chatte]]
 - Ametria:
 	- [[Villuvi]]
 	- [[Papoli]]
 	- [[Limme]]
+	- [[Acuvalli]]
 - Fortuna:
 	- 
 
