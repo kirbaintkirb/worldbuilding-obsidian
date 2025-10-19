@@ -1,0 +1,303 @@
+{
+  "mapMarkers": [
+    {
+      "id": "world",
+      "locked": false,
+      "lastAccessed": 1760673771004,
+      "markers": [
+        {
+          "id": "ID_1909a969499b",
+          "type": "default",
+          "loc": [
+            -0.72784423828125,
+            1.7060546875
+          ],
+          "layer": "%5B%5Bworld.png%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": null,
+          "description": null,
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_19fb19d8a808",
+          "type": "default",
+          "loc": [
+            1.39599609375,
+            10.1171875
+          ],
+          "layer": "%5B%5Bworld.png%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": null,
+          "description": null,
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_5a79799a1b0b",
+          "type": "default",
+          "loc": [
+            -0.72003173828125,
+            2.5185546875
+          ],
+          "layer": "%5B%5Bworld.png%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": null,
+          "description": null,
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_4a997ba9780a",
+          "type": "default",
+          "loc": [
+            -0.7376708984375,
+            2.521484375
+          ],
+          "layer": "%5B%5Bworld.png%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": null,
+          "description": null,
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        }
+      ],
+      "overlays": [],
+      "shapes": [],
+      "files": [
+        "src/GEOGRAPHY/The World.md"
+      ]
+    },
+    {
+      "id": "world-map",
+      "lastAccessed": 1760846233630,
+      "markers": [
+        {
+          "id": "ID_aa7a5848aa7b",
+          "type": "default",
+          "loc": [
+            -676.5907041609655,
+            860.195399313435
+          ],
+          "link": "Adalaidia",
+          "layer": "%5B%5Bworld.png%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": null,
+          "description": null,
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_28bb184a5b88",
+          "type": "default",
+          "loc": [
+            -343.43292478754125,
+            631.4463555995869
+          ],
+          "link": "Ametrie",
+          "layer": "%5B%5Bworld.png%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": null,
+          "description": null,
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_3bea39e90819",
+          "type": "default",
+          "loc": [
+            -464.84375,
+            1162.5
+          ],
+          "link": "Makro",
+          "layer": "%5B%5Bworld.png%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": null,
+          "description": null,
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_a9bb0a6b3b48",
+          "type": "default",
+          "loc": [
+            -860.84375,
+            638.5
+          ],
+          "link": "Zodiac",
+          "layer": "%5B%5Bworld.png%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": null,
+          "description": null,
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_1b18696aba09",
+          "type": "default",
+          "loc": [
+            -706.84375,
+            424.5
+          ],
+          "link": "Apetra",
+          "layer": "%5B%5Bworld.png%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": null,
+          "description": null,
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_b8a9cbb95ad8",
+          "type": "default",
+          "loc": [
+            -522.84375,
+            140.5
+          ],
+          "link": "Fortuna",
+          "layer": "%5B%5Bworld.png%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": null,
+          "description": null,
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_ea6ab88b0b88",
+          "type": "default",
+          "loc": [
+            -48.84375,
+            662.5
+          ],
+          "link": "Poles",
+          "layer": "%5B%5Bworld.png%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": null,
+          "description": null,
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_29ebb9c82bb8",
+          "type": "default",
+          "loc": [
+            -144.84375,
+            1034.5
+          ],
+          "link": "Icro",
+          "layer": "%5B%5Bworld.png%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": null,
+          "description": null,
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        }
+      ],
+      "overlays": [],
+      "shapes": [],
+      "files": [
+        "src/GEOGRAPHY/The World.md"
+      ]
+    }
+  ],
+  "defaultMarker": {
+    "type": "default",
+    "iconName": "map-marker",
+    "color": "#dddddd",
+    "transform": {
+      "size": 6,
+      "x": 0,
+      "y": -2
+    }
+  },
+  "markerIcons": [],
+  "color": "#dddddd",
+  "lat": 39.983334,
+  "long": -82.98333,
+  "notePreview": false,
+  "layerMarkers": true,
+  "previousVersion": "6.0.5",
+  "version": {
+    "major": 6,
+    "minor": 0,
+    "patch": 5
+  },
+  "warnedAboutMapMarker": false,
+  "copyOnClick": false,
+  "displayMarkerTooltips": "hover",
+  "displayOverlayTooltips": true,
+  "configDirectory": null,
+  "mapViewEnabled": true,
+  "mapViewParameters": {
+    "darkMode": true,
+    "defaultZoom": 5,
+    "distanceMultiplier": 1,
+    "drawColor": "#3388ff",
+    "geojson": [],
+    "geojsonColor": "#3388ff",
+    "gpx": [],
+    "gpxColor": "#3388ff",
+    "height": "500px",
+    "image": "[[world.png]]",
+    "imageOverlay": [],
+    "isMapView": false,
+    "layers": [
+      "[[world.png]]"
+    ],
+    "linksFrom": [],
+    "linksTo": [],
+    "marker": [
+      "default, 39.983334, -82.983330, [[Note]]"
+    ],
+    "commandMarker": [],
+    "markerFile": [],
+    "markerFolder": [],
+    "markerTag": [],
+    "maxZoom": 10,
+    "minZoom": 1,
+    "osmLayer": true,
+    "overlay": [],
+    "overlayColor": "blue",
+    "scale": 1,
+    "showAllMarkers": false,
+    "tileServer": [],
+    "verbose": false,
+    "zoomDelta": 1,
+    "zoomFeatures": false,
+    "id": "world",
+    "lat": 50,
+    "long": 50,
+    "unit": "meters",
+    "filterTag": []
+  },
+  "enableDraw": true,
+  "defaultUnitType": "imperial",
+  "defaultTile": "https://{s}.basemaps.cartocdn.com/rastertiles/voyager/{z}/{x}/{y}.png",
+  "defaultTileDark": "https://{s}.basemaps.cartocdn.com/rastertiles/voyager/{z}/{x}/{y}.png",
+  "defaultAttribution": "&copy; <a href=\"https://www.openstreetmap.org/copyright\">OpenStreetMap</a> contributors &copy; <a href=\"https://carto.com/attributions\">CARTO</a>",
+  "defaultTileSubdomains": "a,b,c,d"
+}

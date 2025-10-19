@@ -1,0 +1,252 @@
+{
+  "main": {
+    "id": "29cb827380c20f61",
+    "type": "split",
+    "children": [
+      {
+        "id": "c31ab745a646a560",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "78cf07289f46f48d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "src/GEOGRAPHY/The World.md",
+                "mode": "preview",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "The World"
+            }
+          },
+          {
+            "id": "eb78610cc1c7347c",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {},
+              "icon": "lucide-git-fork",
+              "title": "Graph view"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "cfd33f7fb45ceca7",
+    "type": "split",
+    "children": [
+      {
+        "id": "3b440682df1fff0f",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "5b65bbf5bfb29261",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "84396f5b0847e922",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "7febe2ff794759cd",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 224.5
+  },
+  "right": {
+    "id": "7c80d2e464050ce7",
+    "type": "split",
+    "children": [
+      {
+        "id": "8d2bedae5c09eeb8",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "9dd688f314f7f0ce",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "src/GEOGRAPHY/Continents.canvas",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for Continents"
+            }
+          },
+          {
+            "id": "95f23d404c0ab5c1",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "src/GEOGRAPHY/The World.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from The World"
+            }
+          },
+          {
+            "id": "d0f14b0320da9786",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "90f6c97d188e2dfc",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Frei-Maré.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline of Frei-Maré"
+            }
+          },
+          {
+            "id": "e313efa022f598d4",
+            "type": "leaf",
+            "state": {
+              "type": "footnotes",
+              "state": {
+                "file": "src/Main.md"
+              },
+              "icon": "lucide-file-signature",
+              "title": "Footnotes"
+            }
+          },
+          {
+            "id": "e6930e7344a1d2f1",
+            "type": "leaf",
+            "state": {
+              "type": "git-view",
+              "state": {},
+              "icon": "git-pull-request",
+              "title": "Source Control"
+            }
+          }
+        ],
+        "currentTab": 5
+      }
+    ],
+    "direction": "horizontal",
+    "width": 704.5
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "bases:Create new base": false,
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "obsidian-leaflet-plugin:Open Leaflet Map": false,
+      "obsidian-git:Open Git source control": false
+    }
+  },
+  "active": "78cf07289f46f48d",
+  "lastOpenFiles": [
+    "src/CITIES/Frei-Maré/Frei-Maré.md",
+    "src/GEOGRAPHY/CONTINENTS/Adalaidia.md",
+    "src/COUNTRIES/Republic of Teresal.md",
+    "src/RELIGIONS/Sanatorism.md",
+    "src/GEOGRAPHY/The World.md",
+    "src/GEOGRAPHY/world.png",
+    "src/GEOGRAPHY/world1.png",
+    "src/GEOGRAPHY/CONTINENTS/Zodiac.md",
+    "src/GEOGRAPHY/CONTINENTS/Poles.md",
+    "src/GEOGRAPHY/CONTINENTS/Makro.md",
+    "src/GEOGRAPHY/CONTINENTS/Fortuna.md",
+    "src/GEOGRAPHY/CONTINENTS/Apetra.md",
+    "src/GEOGRAPHY/CONTINENTS/Ametrie.md",
+    "src/GEOGRAPHY/CONTINENTS/Icro.md",
+    "src/Table of contents.md",
+    "src/GEOGRAPHY/Pan-Catastrophe Zones.md",
+    "src/Long Distance Vessels.md",
+    "src/Main.md",
+    "src/Sprit.md",
+    "src/CITIES/Frei-Maré/Gran-Roundabout.md",
+    "src/RELIGIONS/Retorcionism.md",
+    "world.png",
+    "Note.md",
+    "templates/map.md",
+    "templates",
+    "src/GEOGRAPHY/Plates.canvas",
+    "src/GEOGRAPHY/Shitty World no CZ.png",
+    "src/RELIGIONS/Religions.canvas",
+    "trash/Deniers.md",
+    "trash/Tripalism.md",
+    "Continents.md",
+    "Untitled.md",
+    "src/GEOGRAPHY/CONTINENTS",
+    "src/GEOGRAPHY",
+    "trash",
+    "src/CITIES/Frei-Maré",
+    "random",
+    "src/RELIGIONS",
+    "src/COUNTRIES",
+    "src/CITIES",
+    "src",
+    "CHARACTERS/Untitled.canvas",
+    "Pasted image 20250827144017.png"
+  ]
+}
