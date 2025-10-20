@@ -13,25 +13,30 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "src/RELIGIONS/Sanatorism.md",
+                "file": "Kingdom of Papoli.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Sanatorism"
+              "title": "Kingdom of Papoli"
             }
           },
           {
             "id": "eb78610cc1c7347c",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "Graph view"
+              "type": "markdown",
+              "state": {
+                "file": "Form.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Form"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -123,12 +128,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "src/RELIGIONS/Sanatorism.md",
+                "file": "Nacreous Lazilun.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from Sanatorism"
+              "title": "Outgoing links from Nacreous Lazilun"
             }
           },
           {
@@ -188,7 +193,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 472.5
+    "width": 325.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -203,16 +208,18 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "5b65bbf5bfb29261",
+  "active": "eb78610cc1c7347c",
   "lastOpenFiles": [
-    "src/RELIGIONS/Retorcionism.md",
+    "Form.md",
+    "Kingdom of Papoli.md",
     "src/Table of contents.md",
+    "src/RELIGIONS/Sanatorism.md",
+    "src/RELIGIONS/Retorcionism.md",
     "src/GEOGRAPHY/The World.md",
     "src/GEOGRAPHY/Pan-Catastrophe Zones.md",
     "src/COUNTRIES/Republic of Teresal.md",
     "src/CITIES/Frei-Maré/Frei-Maré.md",
     "src/GEOGRAPHY/CONTINENTS/Adalaidia.md",
-    "src/RELIGIONS/Sanatorism.md",
     "src/GEOGRAPHY/world.png",
     "src/GEOGRAPHY/world1.png",
     "src/GEOGRAPHY/CONTINENTS/Zodiac.md",
@@ -236,7 +243,6 @@
     "trash/Deniers.md",
     "trash/Tripalism.md",
     "Continents.md",
-    "Untitled.md",
     "src/GEOGRAPHY/CONTINENTS",
     "src/GEOGRAPHY",
     "trash",

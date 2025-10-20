@@ -39,7 +39,7 @@ As of the pilot plan restructuring of the main prefectures, Frei has 12 district
 
 ## History
 
-Long before the [[Papoli|Papolian]] and [[Limme|Limmean]] colonization, the remaining Pre-Tearing population of the Avá had created a settlement somewhere in the delta of the Pebaitai river, artifacts of Avaian pottery, especially their apicultural tools have been maintained in the Teresalian Musem.
+Long before the [[Kingdom of Papoli|Papolian]] and [[Limme|Limmean]] colonization, the remaining Pre-Tearing population of the Avá had created a settlement somewhere in the delta of the Pebaitai river, artifacts of Avaian pottery, especially their apicultural tools have been maintained in the Teresalian Musem.
 
 Frei was sediated in 1504, by a Sanatorian Mission led by an unnamed Papise Priest In what used to be the city hall of Frei Maré, now the Lead Square. Information regarding any Sanatorian mission members is hidden under the Limmian Protection act, which has not been overruled.
 

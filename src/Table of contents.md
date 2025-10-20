@@ -26,7 +26,7 @@
 	- [[Chatte]]
 - Ametria:
 	- [[Villuvi]]
-	- [[Papoli]]
+	- [[Kingdom of Papoli]]
 	- [[Limme]]
 	- [[Acuvalli]]
 - Fortuna:

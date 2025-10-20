@@ -1,6 +1,6 @@
 *"The history of Sanatorism is entrenched with politics, so much so that it dragged and other religions into  the same being"*
 
-Sanatorism is a [[Papoli|Papolian]] originated doctrine, pertaining eternity through taking care of yourself.
+Sanatorism is a [[Kingdom of Papoli|Papolian]] originated doctrine, pertaining eternity through taking care of yourself.
 
 ## Theological Origin
 
