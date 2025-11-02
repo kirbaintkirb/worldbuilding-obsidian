@@ -5,7 +5,7 @@
 - [[The World]]
 - [[Pan-Catastrophe Zones]]
 
-### Continents
+### Plates
 
 - [[Adalaidia]]
 - [[Makro]]
@@ -14,6 +14,7 @@
 - [[Poles]]
 - [[Ametrie]]
 - [[Fortuna]]
+- [[Zodiac]]
 ### Countries
 
 - Adalaidia:
@@ -30,7 +31,8 @@
 	- [[Limme]]
 	- [[Acuvalli]]
 - Fortuna:
-	- 
+	- [[Hphagpa]]
+	- [[Oumun]]
 
 ## Religions
 

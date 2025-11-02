@@ -7,7 +7,7 @@
 > | Official language(s) | Papise, Chatte |
 > | Demonym | Teresalian |
 
-The Federative Republic of Teresal, or simply Teresal, is a democratic parliamentarian republic and the biggest country on the [[Adalaidia|Adalaidian plate]]. Teresal has a long history of colonization by [[Kingdom of Papoli]] and [[Limme]], serving as an ultramarine territory for half of it's history. Today it sits as an independent sovereign state, after the Common Annulment of 1899, which gave it independence.  
+The Federative Republic of Teresal, or simply Teresal, is a democratic parliamentarian republic and the biggest country on the [[Adalaidia|Adalaidian plate]]. Teresal has a long history of colonization by [[Kingdom of Papoli]] and [[Limme]], serving as an ultramarine territory for half of it's history. Today it sits as an independent sovereign state, after the Common Annulment of 2899, which gave it independence.  
 
 The biggest metropolis of the country [[Frei-Maré]] and it's capital [[Tersa]] are the biggest contributors to population and economy. However Frei is economically dependent on [[Telemach]], due to it's alliance in the [[Clean Wars]]
 
@@ -23,7 +23,7 @@ Historically it currently sits as a semi-developed country, It served as an impo
 
 Teresal was founded initially during the colonization period by Papoli and Limme, where it was explored for the especially durable crystalline dark-wood, utilized in the structure maritime vessels and, aeronautical rotor-aerostats. 
 
-Papoli arrived in Teresal in 1670, folllowed by Limme in 1677
+Papoli arrived in Teresal in 2670, folllowed by Limme in 2677
 
 As the colonization process continued, the main commodities changed to agricultural products like honey and coffee, and most recently, extraction of [[Form]], which was found in an international deposit between [[Chrysopelagi]] and {Neighbor 2}.
 

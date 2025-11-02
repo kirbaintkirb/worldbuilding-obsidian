@@ -2,6 +2,6 @@
 
 But you don't get to see it.
 
-You live in the tourist trap of [[Frei-Maré]], and you'll live and die here. If you can call this living. You are born, you study, you stop studying to work and then you die.
+Yesterday night, December 10th, 2998, [[Frei-Maré]] was showered in space debris. While nobody was harmed, the debris has not been able to be identified, though the few ceramic pieces that have been collected seem similar to Villuvi-Telemachian spaceships. No launch or currently existing satellite was unaccounted for, investigators and researchers alike are calling this a mysterious accident.
 
-But you agree that life can have so much more yes? This world... you know it has to have more than just its surface. There has to be something beyond. Transcendental.
+Staged for January 1st, 2999. The Borealis 12 Mission is the first manned space launch by Villuvi-Telemachian partnership. After years of attempting to set up a livable Satellite, their first experiment with animals was a success, and they will send three cosmonauts to the orbit of the World.

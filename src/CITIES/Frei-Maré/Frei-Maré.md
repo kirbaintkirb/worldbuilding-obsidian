@@ -5,11 +5,11 @@
 > | ---- | --- |
 > | Country | [[Republic of Teresal]] |
 > | State | Maresia |
-> | Population | 8.34 million inhabitants (1995) |
+> | Population | 8.34 million inhabitants (2995) |
 > | Climate | Tropical Humid|
 > | Height | 0m (sea level) |
 
-Frei-Maré, or simply Frei is the capital of the Republic of Teresal, the largest city in the [[Adalaidia|Adalaidian continent]]. It was founded in 1678 AS, during a [[Sanatorism|Sanatorian mission]] led by a priest of the [[Sanatorism|Teresian sanity]].
+Frei-Maré, or simply Frei is the capital of the Republic of Teresal, the largest city in the [[Adalaidia|Adalaidian continent]]. It was founded in 2678, during a [[Sanatorism|Sanatorian mission]] led by a priest of the [[Sanatorism|Teresian sanity]].
 
 As of the 1992 census, Frei sports 1.3 million inhabitants across the Bay of Ilha-Seca, with most of the concentration standing in the planned and historical centers of the city. 
 
@@ -41,7 +41,7 @@ As of the pilot plan restructuring of the main prefectures, Frei has 12 district
 
 Long before the [[Kingdom of Papoli|Papolian]] and [[Limme|Limmean]] colonization, the remaining Pre-Tearing population of the Avá had created a settlement somewhere in the delta of the Pebaitai river, artifacts of Avaian pottery, especially their apicultural tools have been maintained in the Teresalian Musem.
 
-Frei was sediated in 1504, by a Sanatorian Mission led by an unnamed Papise Priest In what used to be the city hall of Frei Maré, now the Lead Square. Information regarding any Sanatorian mission members is hidden under the Limmian Protection act, which has not been overruled.
+Frei was sediated in 2504, by a Sanatorian Mission led by an unnamed Papise Priest In what used to be the city hall of Frei Maré, now the Lead Square. Information regarding any Sanatorian mission members is hidden under the Limmian Protection act, which has not been overruled.
 
 While the details are unknown, there is historical evidence that points that all members of the Avá town in the location had disappeared or died, including most records.
 
