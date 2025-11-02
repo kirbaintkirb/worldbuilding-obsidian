@@ -92,7 +92,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "\"as\"",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -113,8 +113,7 @@
               "title": "Bookmarks"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -233,7 +232,7 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "4586cc457b6db8ae",
+  "active": "5b65bbf5bfb29261",
   "lastOpenFiles": [
     "src/CITIES/Frei-Maré/Frei-Maré.md",
     "src/GEOGRAPHY/The World.md",
@@ -252,7 +251,7 @@
     "src/CITIES/Frei-Maré/Gran-Roundabout.md",
     "src/GEOGRAPHY/CONTINENTS/Apetra.md",
     "src/GEOGRAPHY/CONTINENTS/Fortuna.md",
-    "Kingdom of Papoli.md",
+    "src/COUNTRIES/Kingdom of Papoli.md",
     "Form.md",
     "src/GEOGRAPHY/Pan-Catastrophe Zones.md",
     "src/GEOGRAPHY/world.png",
