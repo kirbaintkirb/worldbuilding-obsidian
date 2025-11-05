@@ -11,10 +11,14 @@
             "id": "78cf07289f46f48d",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "Graph view"
+              "type": "markdown",
+              "state": {
+                "file": "src/GEOGRAPHY/CONTINENTS/Apetra.md",
+                "mode": "preview",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Apetra"
             }
           },
           {
@@ -37,12 +41,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "src/CHARACTERS/Marina da Costa.md",
-                "mode": "preview",
+                "file": "src/GEOGRAPHY/The World.md",
+                "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Marina da Costa"
+              "title": "The World"
             }
           },
           {
@@ -51,12 +55,26 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "src/Main.md",
+                "file": "src/CHARACTERS/Marina da Costa.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Main"
+              "title": "Marina da Costa"
+            }
+          },
+          {
+            "id": "a52ee5df54144479",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "src/GEOGRAPHY/CONTINENTS/Adalaidia.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Adalaidia"
             }
           }
         ],
@@ -117,7 +135,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 224.5
+    "width": 255.5
   },
   "right": {
     "id": "7c80d2e464050ce7",
@@ -234,47 +252,47 @@
   },
   "active": "4586cc457b6db8ae",
   "lastOpenFiles": [
-    "src/GEOGRAPHY/The World.md",
-    "src/CITIES/Frei-Maré/Frei-Maré.md",
-    "src/Table of contents.md",
-    "src/Main.md",
-    "src/Long Distance Vessels.md",
-    "src/Sprit.md",
-    "src/RELIGIONS/Sanatorism.md",
-    "src/RELIGIONS/Religions.canvas",
-    "src/RELIGIONS/Retorcionism.md",
-    "src/GEOGRAPHY/CONTINENTS/Ametrie.md",
     "src/GEOGRAPHY/CONTINENTS/Adalaidia.md",
-    "src/COUNTRIES/Republic of Teresal.md",
-    "random/Excerpts from the many gods.md",
+    "src/Table of contents.md",
+    "src/TECHNOLOGY",
+    "src/COUNTRIES/Fortuna",
+    "src/COUNTRIES/Ametrie",
+    "src/COUNTRIES/Adalaidia",
+    "src/HISTORY/FRACTURED ERA",
+    "src/HISTORY",
+    "src/COUNTRIES/Fortuna/Oumun.md",
+    "src/COUNTRIES/Fortuna/Hphagpa.md",
+    "src/COUNTRIES/Ametrie/Villuvi.md",
+    "src/COUNTRIES/Ametrie/Acuvalli.md",
+    "src/COUNTRIES/Ametrie/Kingdom of Papoli.md",
+    "src/Main.md",
+    "src/CHARACTERS/Marina da Costa.md",
     "random/Madrugada.md",
-    "src/CITIES/Frei-Maré/Gran-Roundabout.md",
+    "random/Excerpts from the many gods.md",
+    "src/GEOGRAPHY/The World.md",
+    "src/HISTORY/FRACTURED ERA/Paroxys.md",
+    "src/RELIGIONS/Sanatorism.md",
     "src/GEOGRAPHY/CONTINENTS/Apetra.md",
     "src/GEOGRAPHY/CONTINENTS/Fortuna.md",
-    "src/COUNTRIES/Kingdom of Papoli.md",
-    "src/Form.md",
+    "src/GEOGRAPHY/CONTINENTS/Ametrie.md",
+    "src/CITIES/Frei-Maré/Frei-Maré.md",
+    "src/TECHNOLOGY/Long Distance Vessels.md",
+    "src/TECHNOLOGY/Sprit.md",
+    "src/RELIGIONS/Religions.canvas",
+    "src/RELIGIONS/Retorcionism.md",
+    "src/COUNTRIES/Adalaidia/Republic of Teresal.md",
+    "src/CITIES/Frei-Maré/Gran-Roundabout.md",
+    "src/TECHNOLOGY/Form.md",
     "src/GEOGRAPHY/Pan-Catastrophe Zones.md",
     "src/GEOGRAPHY/world.png",
     "src/GEOGRAPHY/world1.png",
-    "src/GEOGRAPHY/CONTINENTS/Zodiac.md",
-    "src/GEOGRAPHY/CONTINENTS/Poles.md",
-    "src/GEOGRAPHY/CONTINENTS/Makro.md",
-    "src/GEOGRAPHY/CONTINENTS/Icro.md",
     "world.png",
-    "Note.md",
-    "templates/map.md",
     "templates",
     "src/GEOGRAPHY/Plates.canvas",
     "src/GEOGRAPHY/Shitty World no CZ.png",
     "src/GEOGRAPHY/CONTINENTS",
     "src/GEOGRAPHY",
     "trash",
-    "src/CITIES/Frei-Maré",
-    "random",
-    "src/RELIGIONS",
-    "src/COUNTRIES",
-    "src/CITIES",
-    "src",
     "CHARACTERS/Untitled.canvas",
     "Pasted image 20250827144017.png"
   ]

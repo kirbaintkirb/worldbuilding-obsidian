@@ -1,6 +1,6 @@
 *"The history of Sanatorism is entrenched with politics, so much so that it dragged and other religions into  the same being"*
 
-Sanatorism is a [[Kingdom of Papoli|Papolian]] originated doctrine, pertaining eternity through taking care of yourself.
+Sanatorism is a [[Kingdom of Papoli|Papolian]] originated doctrine, pertaining eternity through taking care of yourself. Sanatorism originated from before the [[Paroxys]], being a derivative of proto-Monotheism.
 
 ## Theological Origin
 
@@ -14,11 +14,13 @@ Sanities are those who through practice have discovered ways to take care of the
 
 Though not necessarily the most important, here are a few Sanities:
 
-- Peter: The first human sanity, attained through the ritual of breathing, story-telling and self-flagellation.
+- Peter the 1st: The first human sanity, attained through the ritual of breathing, story-telling and self-flagellation.
 
-- Teresa (Patroness of [[Republic of Teresal|Teresal]]): Attained sanity through the ritual tying of knots, poetry and blood-letting.
+- Teresa the 20th (Patroness of [[Republic of Teresal|Teresal]]): Attained sanity through the ritual tying of knots, poetry and blood-letting.
 
-- Sebastian: attained sanity through archery, lucid dreaming and arsenic.
+- Sebastian the 76th: attained sanity through archery, lucid dreaming and arsenic.
+
+- Garza the 108th: The most recent sanity, attained through martial arts, limbic exploration and exploding.
 
 ## Rituals
 

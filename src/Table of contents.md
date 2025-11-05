@@ -1,11 +1,22 @@
 - [[Main]]
 
+## History
+
+Ancient History
+- [[Paroxys]]
+- The 40 days
+
+Modern Age
+- [[Clean Wars]]
+- Borealis Disaster
 ## Geography
 
 - [[The World]]
 - [[Pan-Catastrophe Zones]]
 
 ### Plates
+
+![[world.png]]
 
 - [[Adalaidia]]
 - [[Makro]]
@@ -25,7 +36,7 @@
 - Apetra:
 	- [[Alda]]
 	- [[Chatte]]
-- Ametria:
+- Ametrie:
 	- [[Villuvi]]
 	- [[Kingdom of Papoli]]
 	- [[Limme]]
