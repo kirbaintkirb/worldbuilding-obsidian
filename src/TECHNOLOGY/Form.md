@@ -4,4 +4,8 @@ Formatite as an element is poorly understood, though there have been empirical o
 
 It's actual atomic components however feature no similarities to any existing elements, it is the zero-th element, featuring no protons, but rather imaginary particles that act as positive charges.
 
-Formatite is extremely toxical to brain tissue, causing Form poisoning, as the kidneys can't remove the metal, it accumulate around the brain, specifically the corpus callossum, which causes it to mineralize.
+# Sprit effect
+
+The main effect and application of Form is to exploit the sprit effect, since Form is an imaginary charge you can use it to harness and contain energy from the background [[Idyllic ]] Plane, by opening a small incision that lets the Form draw in the raw energy.
+
+Formatite is extremely toxic to brain tissue, causing Form poisoning, as the kidneys can't remove the metal, it accumulate around the brain, specifically the corpus callossum, which causes it to mineralize.
