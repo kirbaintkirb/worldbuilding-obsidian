@@ -1,5 +1,5 @@
 #stub 
 
-*"The New World"*
+*"The Newest World"*
 
-Adalaidia is a Plate in [[The World]], it was the second to be discovered after [[Makro]]
+Adalaidia is a [[Plates]] in [[The World]], it was the second continent to be discovered after [[Makro]]

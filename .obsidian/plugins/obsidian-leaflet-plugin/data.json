@@ -78,7 +78,7 @@
     },
     {
       "id": "world-map",
-      "lastAccessed": 1760846233630,
+      "lastAccessed": 1762655153262,
       "markers": [
         {
           "id": "ID_aa7a5848aa7b",
@@ -138,7 +138,7 @@
             -860.84375,
             638.5
           ],
-          "link": "Zodiac",
+          "link": "Kasha",
           "layer": "%5B%5Bworld.png%5D%5D",
           "mutable": true,
           "command": false,

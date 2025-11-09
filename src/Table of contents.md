@@ -4,11 +4,11 @@
 
 Ancient History
 - [[Paroxys]]
-- The 40 days
+- [[The 40 days]]
 
 Modern Age
 - [[Clean Wars]]
-- Borealis Disaster
+- [[Borealis Disaster]]
 ## Geography
 
 - [[The World]]
@@ -25,7 +25,7 @@ Modern Age
 - [[Poles]]
 - [[Ametrie]]
 - [[Fortuna]]
-- [[Zodiac]]
+- [[Kasha]]
 ### Countries
 
 - Adalaidia:
@@ -37,7 +37,7 @@ Modern Age
 	- [[Alda]]
 	- [[Chatte]]
 - Ametrie:
-	- [[Villuvi]]
+	- [[City-State of Villuvi]]
 	- [[Kingdom of Papoli]]
 	- [[Limme]]
 	- [[Acuvalli]]
@@ -50,3 +50,5 @@ Modern Age
 [[Religions.canvas|Religions]]
 - [[Sanatorism]]
 - [[Retorcionism]]
+- [[Carnism]]
+- [[Accretionism]]
