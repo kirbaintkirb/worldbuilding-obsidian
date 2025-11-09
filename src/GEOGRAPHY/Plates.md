@@ -1,1 +1,3 @@
 #stub 
+
+Plates are continental landforms completely surrounded by [[Pan-Catastrophe Zones]], containing an atmosphere, hydrosphere and litosphere. Plates as we know them used to be part of a single unified spherical shape given their curvature and satellite analysis. That shape however is long gone, as the [[Paroxys]] completely altered the form of the planet.

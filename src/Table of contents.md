@@ -6,7 +6,10 @@ Ancient History
 - [[Paroxys]]
 - [[The 40 days]]
 
-Modern Age
+Navigations Age
+
+[[Current Age]]
+- [[Yearly War]]
 - [[Clean Wars]]
 - [[Borealis Disaster]]
 ## Geography
@@ -31,8 +34,10 @@ Modern Age
 - Adalaidia:
 	- [[Republic of Teresal]]
 	- [[Chrysopelagi]]
+	- [[Barra]]
 - Makro:
 	- [[Telemach]]
+	- [[Canthara]]
 - Apetra:
 	- [[Alda]]
 	- [[Chatte]]
@@ -43,7 +48,7 @@ Modern Age
 	- [[Acuvalli]]
 - Fortuna:
 	- [[Hphagpa]]
-	- [[Oumun]]
+	- [[Democratic Oumun]]
 
 ## Religions
 
@@ -52,3 +57,13 @@ Modern Age
 - [[Retorcionism]]
 - [[Carnism]]
 - [[Accretionism]]
+
+## Technology
+
+[[Sprit]]
+[[Form]]
+[[Long Distance Vessels]]
+
+## Exoterism
+
+[[Idyllic]]

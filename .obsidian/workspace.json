@@ -53,27 +53,13 @@
             }
           },
           {
-            "id": "4586cc457b6db8ae",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "src/GEOGRAPHY/Plates.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Plates"
-            }
-          },
-          {
             "id": "eb78610cc1c7347c",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
                 "file": "src/COUNTRIES/Adalaidia/Republic of Teresal.md",
-                "mode": "preview",
+                "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
@@ -107,9 +93,47 @@
               "icon": "lucide-file",
               "title": "The World"
             }
+          },
+          {
+            "id": "3176deebdb8d8994",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "src/RELIGIONS/Retorcionism.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Retorcionism"
+            }
+          },
+          {
+            "id": "b268f81c31e3426a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Idyllic.md",
+                "mode": "preview",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Idyllic"
+            }
+          },
+          {
+            "id": "aef32256017e2692",
+            "type": "leaf",
+            "state": {
+              "type": "obsidian-leaflet-map-view",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "Leaflet Map"
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 8
       }
     ],
     "direction": "vertical"
@@ -281,24 +305,27 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "e6930e7344a1d2f1",
+  "active": "aef32256017e2692",
   "lastOpenFiles": [
+    "src/Table of contents.md",
+    "src/COUNTRIES/Adalaidia/Republic of Teresal.md",
+    "src/GEOGRAPHY/The World.md",
+    "src/CITIES/Frei-Maré/Frei-Maré.md",
+    "Idyllic.md",
+    "src/TECHNOLOGY/Sprit.md",
+    "src/RELIGIONS/Retorcionism.md",
+    "src/COUNTRIES/Fortuna/Democratic Oumun.md",
+    "src/RELIGIONS/Religions.canvas",
     "src/GEOGRAPHY/Plates.md",
     "src/Main.md",
-    "src/Table of contents.md",
     "src/TECHNOLOGY/Form.md",
     "src/TECHNOLOGY/Long Distance Vessels.md",
-    "src/TECHNOLOGY/Sprit.md",
-    "src/RELIGIONS/Religions.canvas",
-    "src/RELIGIONS/Retorcionism.md",
     "src/RELIGIONS/Sanatorism.md",
     "src/GEOGRAPHY/Pan-Catastrophe Zones.md",
-    "src/COUNTRIES/Adalaidia/Republic of Teresal.md",
     "src/COUNTRIES/Ametrie/Kingdom of Papoli.md",
     "src/COUNTRIES/Ametrie/City-State of Villuvi.md",
     "src/COUNTRIES/Ametrie/Acuvalli.md",
     "src/GEOGRAPHY/CONTINENTS/Makro.md",
-    "src/GEOGRAPHY/The World.md",
     "src/CHARACTERS/Marina da Costa.md",
     "src/GEOGRAPHY/CONTINENTS/Kasha.md",
     "src/GEOGRAPHY/world.png",
@@ -311,12 +338,10 @@
     "src/COUNTRIES/Adalaidia",
     "src/HISTORY/FRACTURED ERA",
     "src/HISTORY",
-    "src/COUNTRIES/Fortuna/Oumun.md",
     "src/COUNTRIES/Fortuna/Hphagpa.md",
     "random/Madrugada.md",
     "random/Excerpts from the many gods.md",
     "src/HISTORY/FRACTURED ERA/Paroxys.md",
-    "src/GEOGRAPHY/CONTINENTS/Fortuna.md",
     "src/GEOGRAPHY/world1.png",
     "world.png",
     "templates",
