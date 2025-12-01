@@ -35,6 +35,7 @@ Navigations Age
 	- [[Republic of Teresal]]
 	- [[Chrysopelagi]]
 	- [[Barra]]
+	- [[Catatumbo]]
 - Makro:
 	- [[Telemach]]
 	- [[Canthara]]
@@ -47,9 +48,11 @@ Navigations Age
 	- [[Limme]]
 	- [[Acuvalli]]
 - Fortuna:
-	- [[Hphagpa]]
+	- [[Hphagpa Dominion]]
+	- [[Santana]]
 	- [[Democratic Oumun]]
-
+- Poles:
+	- [[Landam]]
 ## Religions
 
 [[Religions.canvas|Religions]]

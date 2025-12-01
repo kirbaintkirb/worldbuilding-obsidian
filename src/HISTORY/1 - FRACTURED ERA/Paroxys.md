@@ -1,0 +1,1 @@
+The Paroxysm or just Paroxys is the first defining event of modern history or post-[[Ancient History]], marking the beginning of the [[Fractured Era]]. The Paroxys is an event that broke up the [[The World]] into its modern [[Plates]], there is no information about who, what or how Aeden broke into modern Chroma.

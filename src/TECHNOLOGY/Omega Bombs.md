@@ -1,0 +1,2 @@
+#stub
+Omega Bombs also known as the Letter Bombs were a type of interplatery ballistic missile that used a [[Form]] warhead, created by [[Telemach]] in the [[Yearly War]]. While a huge quantity were created only 26 launched numbered Z to A, letters in the Chatten alphabet used in Telese

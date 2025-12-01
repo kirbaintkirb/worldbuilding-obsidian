@@ -8,22 +8,6 @@
         "type": "tabs",
         "children": [
           {
-            "id": "f8e4af58c8c8d78f",
-            "type": "leaf",
-            "pinned": true,
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "src/Table of contents.md",
-                "mode": "source",
-                "source": false
-              },
-              "pinned": true,
-              "icon": "lucide-file",
-              "title": "Table of contents"
-            }
-          },
-          {
             "id": "465b704d7e095923",
             "type": "leaf",
             "pinned": true,
@@ -53,7 +37,21 @@
             }
           },
           {
-            "id": "eb78610cc1c7347c",
+            "id": "2e3dcb24b9183171",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "src/COUNTRIES/Fortuna/Democratic Oumun.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Democratic Oumun"
+            }
+          },
+          {
+            "id": "7d7839b6acee105c",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -67,21 +65,77 @@
             }
           },
           {
-            "id": "a52ee5df54144479",
+            "id": "5efaf0b4657c0154",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "src/GEOGRAPHY/CONTINENTS/Makro.md",
+                "file": "src/COUNTRIES/Ametrie/City-State of Villuvi.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Makro"
+              "title": "City-State of Villuvi"
             }
           },
           {
-            "id": "2e3dcb24b9183171",
+            "id": "97c8da378f495f3c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "src/COUNTRIES/Ametrie/Canthara.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Canthara"
+            }
+          },
+          {
+            "id": "aa93ea646059a886",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "src/COUNTRIES/Ametrie/Limme.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Limme"
+            }
+          },
+          {
+            "id": "345efa7b50343c18",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "src/RELIGIONS/Accretionism.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Accretionism"
+            }
+          },
+          {
+            "id": "b0a696dd11dea4dd",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "src/COUNTRIES/Ametrie/Canthara.md",
+                "mode": "preview",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Canthara"
+            }
+          },
+          {
+            "id": "e4da3cd742482bc3",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -95,45 +149,21 @@
             }
           },
           {
-            "id": "3176deebdb8d8994",
+            "id": "07745b81ff97eb84",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "src/RELIGIONS/Retorcionism.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Retorcionism"
-            }
-          },
-          {
-            "id": "b268f81c31e3426a",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Idyllic.md",
+                "file": "src/GEOGRAPHY/The World.md",
                 "mode": "preview",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Idyllic"
-            }
-          },
-          {
-            "id": "aef32256017e2692",
-            "type": "leaf",
-            "state": {
-              "type": "obsidian-leaflet-map-view",
-              "state": {},
-              "icon": "lucide-file",
-              "title": "Leaflet Map"
+              "title": "The World"
             }
           }
         ],
-        "currentTab": 8
+        "currentTab": 10
       }
     ],
     "direction": "vertical"
@@ -165,7 +195,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "canth",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -190,7 +220,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 208.5
+    "width": 262.5
   },
   "right": {
     "id": "7c80d2e464050ce7",
@@ -206,7 +236,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "src/Table of contents.md",
+                "file": "src/GEOGRAPHY/The World.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -216,7 +246,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Table of contents"
+              "title": "Backlinks for The World"
             }
           },
           {
@@ -225,12 +255,11 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "src/Table of contents.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from Table of contents"
+              "title": "Outgoing links"
             }
           },
           {
@@ -305,50 +334,50 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "aef32256017e2692",
+  "active": "e6930e7344a1d2f1",
   "lastOpenFiles": [
     "src/Table of contents.md",
-    "src/COUNTRIES/Adalaidia/Republic of Teresal.md",
-    "src/GEOGRAPHY/The World.md",
-    "src/CITIES/Frei-Maré/Frei-Maré.md",
-    "Idyllic.md",
-    "src/TECHNOLOGY/Sprit.md",
-    "src/RELIGIONS/Retorcionism.md",
-    "src/COUNTRIES/Fortuna/Democratic Oumun.md",
-    "src/RELIGIONS/Religions.canvas",
-    "src/GEOGRAPHY/Plates.md",
     "src/Main.md",
-    "src/TECHNOLOGY/Form.md",
-    "src/TECHNOLOGY/Long Distance Vessels.md",
-    "src/RELIGIONS/Sanatorism.md",
-    "src/GEOGRAPHY/Pan-Catastrophe Zones.md",
+    "src/GEOGRAPHY/world.png",
+    "src/CITIES/Frei-Maré/Frei-Maré.md",
+    "src/COUNTRIES/Ametrie/Limme.md",
     "src/COUNTRIES/Ametrie/Kingdom of Papoli.md",
     "src/COUNTRIES/Ametrie/City-State of Villuvi.md",
+    "src/COUNTRIES/Ametrie/Canthara.md",
     "src/COUNTRIES/Ametrie/Acuvalli.md",
-    "src/GEOGRAPHY/CONTINENTS/Makro.md",
-    "src/CHARACTERS/Marina da Costa.md",
-    "src/GEOGRAPHY/CONTINENTS/Kasha.md",
-    "src/GEOGRAPHY/world.png",
-    "src/GEOGRAPHY/CONTINENTS/Adalaidia.md",
+    "src/COUNTRIES/Apetra/Chatte.md",
+    "src/COUNTRIES/Fortuna/Santana.md",
+    "src/COUNTRIES/Fortuna/Hphagpa Dominion.md",
+    "src/COUNTRIES/Fortuna/Democratic Oumun.md",
+    "src/COUNTRIES/Makro/Telemach.md",
+    "src/GEOGRAPHY/The World.md",
+    "src/GEOGRAPHY/Plates.md",
+    "src/GEOGRAPHY/Pan-Catastrophe Zones.md",
+    "src/GEOGRAPHY/CONTINENTS/Poles.md",
+    "src/RELIGIONS/Accretionism.md",
+    "src/RELIGIONS/Carnism.md",
+    "src/COUNTRIES/Apetra",
+    "src/COUNTRIES/Makro",
+    "src/COUNTRIES/Adalaidia/Barra.md",
+    "src/COUNTRIES/Adalaidia/Chrysopelagi.md",
+    "src/HISTORY/3 - CURRENT ERA/Current Age.md",
+    "src/HISTORY/3 - CURRENT ERA/Clean Wars.md",
+    "src/HISTORY/3 - CURRENT ERA/Borealis Disaster.md",
+    "src/HISTORY/3 - CURRENT ERA/Yearly War.md",
+    "src/HISTORY/1 - FRACTURED ERA/The 40 days.md",
+    "src/HISTORY/2 - SANITY ERA",
+    "src/HISTORY/3 - CURRENT ERA",
+    "src/EXOTERISM",
+    "src/RELIGIONS/Religions.canvas",
     "Untitled",
-    "src/GEOGRAPHY/CONTINENTS/Apetra.md",
     "src/TECHNOLOGY",
     "src/COUNTRIES/Fortuna",
     "src/COUNTRIES/Ametrie",
     "src/COUNTRIES/Adalaidia",
-    "src/HISTORY/FRACTURED ERA",
-    "src/HISTORY",
-    "src/COUNTRIES/Fortuna/Hphagpa.md",
-    "random/Madrugada.md",
-    "random/Excerpts from the many gods.md",
-    "src/HISTORY/FRACTURED ERA/Paroxys.md",
     "src/GEOGRAPHY/world1.png",
     "world.png",
-    "templates",
     "src/GEOGRAPHY/Plates.canvas",
     "src/GEOGRAPHY/Shitty World no CZ.png",
-    "src/GEOGRAPHY/CONTINENTS",
-    "src/GEOGRAPHY",
     "CHARACTERS/Untitled.canvas",
     "Pasted image 20250827144017.png"
   ]

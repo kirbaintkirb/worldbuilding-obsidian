@@ -1,7 +1,7 @@
 > [!infobox| right wikipedia]
 > # Republic of Teresal
 > 
-> | Continent | [[Adalaidia]] |
+> | Plate | [[Adalaidia]] |
 > | --- | --- |
 > | Largest city | [[Frei-Maré]] |
 > | Official language(s) | Papise, Chatte |
