@@ -3,10 +3,11 @@
 ## History
 
 Ancient History
-- [[Paroxys]]
-- [[The 40 days]]
+- [[Paroxysm]]
 
 Navigations Age
+
+Sanity Age
 
 [[Current Age]]
 - [[Yearly War]]
@@ -14,14 +15,14 @@ Navigations Age
 - [[Borealis Disaster]]
 ## Geography
 
-- [[The World]]
+- [[Chroma]]
 - [[Pan-Catastrophe Zones]]
 
 ### Plates
 
 ![[world.png]]
 
-- [[Adalaidia]]
+- [[Rosalia]]
 - [[Makro]]
 - [[Icro]]
 - [[Apetra]]
@@ -63,9 +64,9 @@ Navigations Age
 
 ## Technology
 
-[[Sprit]]
-[[Form]]
-[[Long Distance Vessels]]
+- [[Sprit]]
+- [[Form]]
+- [[Long Distance Vessels]]
 
 ## Exoterism
 

@@ -1,6 +1,6 @@
 *"Between all of us there is a Black Sea which forbids true connection"*
 
-Catastrophe Zones, PCZs, also known colloquially as Black Seas are a catastrophic feature that exists on the edge of every continent of [[The World]], they are an extra dense column of vacuum that rises into the thermosphere, dividing the world into [[Plates]].
+Catastrophe Zones, PCZs, also known colloquially as Black Seas are a catastrophic feature that exists on the edge of every continent of [[Chroma]], they are an extra dense column of vacuum that rises into the thermosphere, dividing the world into [[Plates]].
 
 ### Physical properties
 

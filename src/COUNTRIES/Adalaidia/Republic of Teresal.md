@@ -1,19 +1,19 @@
 > [!infobox| right wikipedia]
 > # Republic of Teresal
 > 
-> | Plate | [[Adalaidia]] |
+> | Plate | [[Rosalia]] |
 > | --- | --- |
 > | Largest city | [[Frei-Maré]] |
 > | Official language(s) | Papise, Chatte |
 > | Demonym | Teresalian |
 
-The Federative Republic of Teresal, or simply Teresal, is a democratic parliamentarian republic and the biggest country on the [[Adalaidia|Adalaidian plate]]. Teresal has a long history of colonization by [[Kingdom of Papoli]] and [[Limme]], serving as an ultramarine territory for half of it's history. Today it sits as an independent sovereign state, after the Common Annulment of 2899, which gave it independence.  
+The Federative Republic of Teresal, or simply Teresal, is a democratic parliamentarian republic and the biggest country on the [[Rosalia|Adalaidian plate]]. Teresal has a long history of colonization by [[Kingdom of Papoli]] and [[Limme]], serving as an ultramarine territory for half of it's history. Today it sits as an independent sovereign state, after the Common Annulment of 2899, which gave it independence.  
 
-The biggest metropolis of the country [[Frei-Maré]] and it's capital [[Tersa]] are the biggest contributors to population and economy. However Frei is economically dependent on [[Telemach]], due to it's alliance in the [[Clean Wars]]
+The biggest metropolis of the country [[Frei-Maré]] and its capital [[Tersa]] are the biggest contributors to both population and economical production. However Frei is economically dependent on [[Telemach]], due to it's alliance in the [[Clean Wars]]
 
 # Geography
 
-Teresal holds most of the Adalaidian peninsula, including the island chain the Fortitudo Sea in the north and Sapientia in the south.
+Teresal holds most of the Adalaidian peninsula, including the island chain the Fortitudo Sea in the north and Sapientia in the south. It borders [[Chrysopelagi]], [[Barra]] and [[Catatumbo]].
 
 Teresal speaks predominantly Papise, derived from the main Papolian immigration.
 
@@ -25,7 +25,7 @@ Teresal was founded initially during the colonization period by Papoli and Limme
 
 Papoli arrived in Teresal in 2670, folllowed by Limme in 2677
 
-As the colonization process continued, the main commodities changed to agricultural products like honey and coffee, and most recently, extraction of [[Form]], which was found in an international deposit between [[Chrysopelagi]] and [[Barra]].
+As the colonization process continued, the main commodities changed to agricultural products like honey and coffee, and most recently, extraction of [[Form]], which was found in an international deposit between Chrysopelagi and Barra.
 
 ## Politics
 

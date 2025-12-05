@@ -154,16 +154,44 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "src/GEOGRAPHY/The World.md",
-                "mode": "preview",
+                "file": "src/COUNTRIES/Adalaidia/Republic of Teresal.md",
+                "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "The World"
+              "title": "Republic of Teresal"
+            }
+          },
+          {
+            "id": "232406beb883c704",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "src/COUNTRIES/Makro/Telemach.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Telemach"
+            }
+          },
+          {
+            "id": "475fc3f6cf7fd194",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "src/RELIGIONS/Sanatorism.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Sanatorism"
             }
           }
         ],
-        "currentTab": 10
+        "currentTab": 12
       }
     ],
     "direction": "vertical"
@@ -195,7 +223,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "canth",
+                "query": "40",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -236,7 +264,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "src/GEOGRAPHY/The World.md",
+                "file": "src/RELIGIONS/Sanatorism.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -246,7 +274,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for The World"
+              "title": "Backlinks for Sanatorism"
             }
           },
           {
@@ -255,11 +283,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "src/RELIGIONS/Sanatorism.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links"
+              "title": "Outgoing links from Sanatorism"
             }
           },
           {
@@ -319,7 +348,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 325.5
+    "width": 444.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -336,39 +365,39 @@
   },
   "active": "e6930e7344a1d2f1",
   "lastOpenFiles": [
-    "src/Table of contents.md",
-    "src/Main.md",
-    "src/GEOGRAPHY/world.png",
-    "src/CITIES/Frei-Maré/Frei-Maré.md",
-    "src/COUNTRIES/Ametrie/Limme.md",
-    "src/COUNTRIES/Ametrie/Kingdom of Papoli.md",
-    "src/COUNTRIES/Ametrie/City-State of Villuvi.md",
-    "src/COUNTRIES/Ametrie/Canthara.md",
-    "src/COUNTRIES/Ametrie/Acuvalli.md",
-    "src/COUNTRIES/Apetra/Chatte.md",
-    "src/COUNTRIES/Fortuna/Santana.md",
-    "src/COUNTRIES/Fortuna/Hphagpa Dominion.md",
-    "src/COUNTRIES/Fortuna/Democratic Oumun.md",
-    "src/COUNTRIES/Makro/Telemach.md",
-    "src/GEOGRAPHY/The World.md",
-    "src/GEOGRAPHY/Plates.md",
-    "src/GEOGRAPHY/Pan-Catastrophe Zones.md",
-    "src/GEOGRAPHY/CONTINENTS/Poles.md",
+    "src/RELIGIONS/Retorcionism.md",
     "src/RELIGIONS/Accretionism.md",
     "src/RELIGIONS/Carnism.md",
-    "src/COUNTRIES/Apetra",
-    "src/COUNTRIES/Makro",
+    "src/RELIGIONS/Sanatorism.md",
+    "src/GEOGRAPHY/CONTINENTS/Rosalia.md",
+    "src/Table of contents.md",
+    "src/GEOGRAPHY/Chroma.md",
+    "src/HISTORY/1 - FRACTURED ERA/Paroxysm.md",
+    "src/HISTORY/1 - FRACTURED ERA/The 40 days.md",
+    "src/COUNTRIES/Makro/Telemach.md",
+    "src/COUNTRIES/Fortuna/Democratic Oumun.md",
+    "src/COUNTRIES/Fortuna/Hphagpa Dominion.md",
+    "src/COUNTRIES/Fortuna/Santana.md",
+    "src/COUNTRIES/Apetra/Chatte.md",
+    "src/COUNTRIES/Ametrie/Acuvalli.md",
+    "src/COUNTRIES/Ametrie/Canthara.md",
+    "src/COUNTRIES/Ametrie/City-State of Villuvi.md",
+    "src/COUNTRIES/Ametrie/Kingdom of Papoli.md",
+    "src/COUNTRIES/Ametrie/Limme.md",
     "src/COUNTRIES/Adalaidia/Barra.md",
     "src/COUNTRIES/Adalaidia/Chrysopelagi.md",
-    "src/HISTORY/3 - CURRENT ERA/Current Age.md",
-    "src/HISTORY/3 - CURRENT ERA/Clean Wars.md",
-    "src/HISTORY/3 - CURRENT ERA/Borealis Disaster.md",
-    "src/HISTORY/3 - CURRENT ERA/Yearly War.md",
-    "src/HISTORY/1 - FRACTURED ERA/The 40 days.md",
+    "src/COUNTRIES/Adalaidia/Republic of Teresal.md",
+    "src/EXOTERISM/Idyllic.md",
+    "src/GEOGRAPHY/Plates.md",
+    "src/GEOGRAPHY/Pan-Catastrophe Zones.md",
+    "src/RELIGIONS/Religions.canvas",
+    "src/TECHNOLOGY/Form.md",
+    "src/GEOGRAPHY/world.png",
+    "src/COUNTRIES/Apetra",
+    "src/COUNTRIES/Makro",
     "src/HISTORY/2 - SANITY ERA",
     "src/HISTORY/3 - CURRENT ERA",
     "src/EXOTERISM",
-    "src/RELIGIONS/Religions.canvas",
     "Untitled",
     "src/TECHNOLOGY",
     "src/COUNTRIES/Fortuna",

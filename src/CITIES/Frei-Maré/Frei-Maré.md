@@ -9,7 +9,7 @@
 > | Climate | Tropical Humid|
 > | Height | 0m (sea level) |
 
-Frei-Maré, or simply Frei is the capital of the Republic of Teresal, the largest city in the [[Adalaidia|Adalaidian continent]]. It was founded in 2678, during a [[Sanatorism|Sanatorian mission]] led by a priest of the [[Sanatorism|Teresian sanity]].
+Frei-Maré, or simply Frei is the capital of the Republic of Teresal, the largest city in the [[Rosalia|Adalaidian continent]]. It was founded in 2678, during a [[Sanatorism|Sanatorian mission]] led by a priest of the [[Sanatorism|Teresian sanity]].
 
 As of the 1992 census, Frei sports 1.3 million inhabitants across the Bay of Ilha-Seca, with most of the concentration standing in the planned and historical centers of the city. 
 

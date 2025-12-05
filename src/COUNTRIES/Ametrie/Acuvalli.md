@@ -1,4 +1,4 @@
-#stub 
+#stub #empty 
 
 ## Meta
 
