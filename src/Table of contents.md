@@ -39,7 +39,7 @@ Sanity Age
 	- [[Catatumbo]]
 - Makro:
 	- [[Telemach]]
-	- [[Canthara]]
+	- [[Commonwealth of Canthara]]
 - Apetra:
 	- [[Alda]]
 	- [[Chatte]]

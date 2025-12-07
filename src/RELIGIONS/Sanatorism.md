@@ -22,7 +22,7 @@ Though not necessarily the most important, here are a few Sanities:
 
 - Sebastian the 76th: attained sanity through archery, lucid dreaming and arsenic. Depicted with a green bow and arrow
 
-- Garza the 108th: The most recent sanity, attained through swimming, limbic exploration and exploding. Depicted with a glass bowl atop his head,
+- Garza the 108th: (Patron of [[City-State of Villuvi|Villuvi]]) The most recent sanity, attained through swimming, limbic exploration and exploding. Depicted with a glass bowl atop his head,
 
 ## Rituals
 

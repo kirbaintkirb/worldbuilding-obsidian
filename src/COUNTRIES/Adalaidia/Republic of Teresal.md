@@ -1,9 +1,11 @@
 > [!infobox| right wikipedia]
 > # Republic of Teresal
+> ![[flag_teresal.png]]
 > 
 > | Plate | [[Rosalia]] |
 > | --- | --- |
 > | Largest city | [[Frei-Maré]] |
+> | Capital | [[Tersa]] |
 > | Official language(s) | Papise, Chatte |
 > | Demonym | Teresalian |
 

@@ -5,6 +5,7 @@
 >| Continent | [[Ametrie]]|
 > | --- | --- |
 > | Largest city | Villuvi |
+> | Capital | Villuvi |
 > | Official language(s) | Telese |
 > | Demonym | Villuvian|
 
