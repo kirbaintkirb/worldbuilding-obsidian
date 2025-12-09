@@ -1,7 +1,7 @@
 *A long long time ago, we did something very wrong, and we haven't recovered since, and we won't recover.*
 
 
-The World, Chroma, Yard, Aeden,  or Varna is a  dubiously planetary collection of masses called [[Plates]], separated by [[Pan-Catastrophe Zones|vacuum]]. It is the place where all of life presumably exists and acts.
+The World, Chroma, Yard, Aeden,  or Varna is a  dubiously planetary collection of masses called [[Plates]], separated by [[Catastrophe Zones|vacuum]]. It is the place where all of life presumably exists and acts.
 
 The World has about 5 macro Plates: [[Ametrie]], [[Apetra]], [[Rosalia]], [[Fortuna]] and [[Makro]]. And the three smaller: [[Kasha]], [[Icro]] and [[Poles]]
 
@@ -29,7 +29,7 @@ The Yard or Jardin is one of the names given to the world, named after the garde
 
 A long time ago, before the [[Fractured Era]], the world used to be called Aeden.
 
-While Rose script has not been fully translated , Aeden is presumed refer to 'the Garden' or 'the territory'. But after the [[Paroxysm]] and, all mention of  the Old World's name disappeared from history, instead today called being Chroma or Varna.
+While Rose script has not been fully translated , Aeden is presumed refer to 'the Garden' or 'the territory'. But after the [[Stentorian Ruin]] and, all mention of  the Old World's name disappeared from history, instead today called being Chroma or Varna.
 
 
 

@@ -1,10 +1,10 @@
 *"Between all of us there is a Black Sea which forbids true connection"*
 
-Catastrophe Zones, PCZs, also known colloquially as Black Seas are a catastrophic feature that exists on the edge of every continent of [[Chroma]], they are an extra dense column of vacuum that rises into the thermosphere, dividing the world into [[Plates]].
+Catastrophe Zones, CZs, also known colloquially as Black Seas are a catastrophic feature that exists on the edge of every continent of [[Chroma]], they are an extra dense column of vacuum that rises into the thermosphere, dividing the world into [[Plates]].
 
 ### Physical properties
 
-The PCZ contains multiple different properties depending on the depth traveled on the vacuum. The natural effects of vacuum creates effects similar to altitude, considering the rarefaction of oxygen and lower temperatures, and the destruction of classical weather systems.  Though the most predominant feature of the Catastrophe Zone is the discrepancy of the distance when entering and leaving. 
+The CZ contains multiple different properties depending on the depth traveled on the vacuum. The natural effects of vacuum creates effects similar to altitude, considering the rarefaction of oxygen and lower temperatures, and the destruction of classical weather systems.  Though the most predominant feature of the Catastrophe Zone is the discrepancy of the distance when entering and leaving. 
 
 Recorded early pedometers of the Pallor Zone and laser measured kilometrage when approaching the Edge, ranged from 10 to 13 kilometers. However leaving the Zone accounted by a dramatically lower value, reaching 2 to 3 kilometers. This phenomenon is entirely unexplained and congruent within all zones.
 

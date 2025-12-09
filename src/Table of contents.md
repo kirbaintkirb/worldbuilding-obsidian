@@ -3,7 +3,7 @@
 ## History
 
 Ancient History
-- [[Paroxysm]]
+- [[Stentorian Ruin]]
 
 Navigations Age
 
@@ -16,7 +16,7 @@ Sanity Age
 ## Geography
 
 - [[Chroma]]
-- [[Pan-Catastrophe Zones]]
+- [[Catastrophe Zones]]
 
 ### Plates
 
@@ -37,23 +37,34 @@ Sanity Age
 	- [[Chrysopelagi]]
 	- [[Barra]]
 	- [[Catatumbo]]
+	- 
 - Makro:
 	- [[Telemach]]
 	- [[Commonwealth of Canthara]]
+	- Vicuña
+	- 
 - Apetra:
 	- [[Alda]]
 	- [[Chatte]]
+	- Misir
+	- 
 - Ametrie:
 	- [[City-State of Villuvi]]
 	- [[Kingdom of Papoli]]
 	- [[Limme]]
 	- [[Acuvalli]]
+	- Coir
+	- Quiltland
+	- Bomius
+	- 
 - Fortuna:
 	- [[Hphagpa Dominion]]
 	- [[Santana]]
 	- [[Democratic Oumun]]
+	- 
 - Poles:
 	- [[Landam]]
+	- 
 ## Religions
 
 [[Religions.canvas|Religions]]

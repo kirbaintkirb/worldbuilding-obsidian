@@ -1,6 +1,6 @@
 *"The history of Sanatorism is entrenched with politics, so much so that it dragged and other religions into  the same being"*
 
-Sanatorism is a [[Kingdom of Papoli|Papolian]] originated doctrine, pertaining eternity through taking care of yourself. Sanatorism originated from before the [[Paroxysm]], being a derivative of proto-Monotheism.
+Sanatorism is a [[Kingdom of Papoli|Papolian]] originated doctrine, pertaining eternity through taking care of yourself. Sanatorism originated from before the [[Stentorian Ruin]], being a derivative of proto-Monotheism.
 
 ## Theological Origin
 
@@ -18,7 +18,7 @@ Though not necessarily the most important, here are a few Sanities:
 
 - Teresa the 20th (Patroness of [[Republic of Teresal|Teresal]]): Attained sanity through the ritual tying of knots, poetry and blood-letting. Depicted with her wrist tied in a red string.
 
-- Rosa the 21st: (Named the plate [[Rosalia]]), attained sanity through the ritual of tilling, farming and rotting. Depicted with a mummified hand, still attached.
+- Rosa the 21st: (Named the plate [[Rosalia]]), attained sanity through the ritual of tilling, deciphering and rotting. Depicted with a mummified hand, still attached.
 
 - Sebastian the 76th: attained sanity through archery, lucid dreaming and arsenic. Depicted with a green bow and arrow
 
