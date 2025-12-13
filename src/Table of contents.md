@@ -1,3 +1,5 @@
+This serves as a general list of terminology so i don't forget it, it can also be a useful index of links while the project isn't big enough.
+
 - [[Main]]
 
 ## History
@@ -43,12 +45,14 @@ Sanity Age
 	- [[Telemach]]
 	- [[Commonwealth of Canthara]]
 	- Vicuña
-	- 
+	- Colibri
 - Apetra:
 	- [[Alda]]
 	- [[Chatte]]
 	- Misir
 	- Baku
+	- Hadiqa
+	- Fleuve
 	- 
 - Ametrie:
 	- [[City-State of Villuvi]]
@@ -60,6 +64,8 @@ Sanity Age
 	- Bomius
 	- Kempeli
 	- Siglufjördr
+	- Fronisi
+	- Brinepetre
 	- 
 - Fortuna:
 	- [[Hphagpa Dominion]]
