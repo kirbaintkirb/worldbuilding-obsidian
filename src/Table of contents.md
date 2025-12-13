@@ -13,6 +13,7 @@ Sanity Age
 - [[Yearly War]]
 - [[Clean Wars]]
 - [[Borealis Disaster]]
+- 
 ## Geography
 
 - [[Chroma]]
@@ -32,7 +33,7 @@ Sanity Age
 - [[Kasha]]
 ### Countries
 
-- Adalaidia:
+- Rosalia:
 	- [[Republic of Teresal]]
 	- [[Chrysopelagi]]
 	- [[Barra]]
@@ -47,6 +48,7 @@ Sanity Age
 	- [[Alda]]
 	- [[Chatte]]
 	- Misir
+	- Baku
 	- 
 - Ametrie:
 	- [[City-State of Villuvi]]
@@ -56,15 +58,19 @@ Sanity Age
 	- Coir
 	- Quiltland
 	- Bomius
+	- Kempeli
+	- Siglufjördr
 	- 
 - Fortuna:
 	- [[Hphagpa Dominion]]
 	- [[Santana]]
 	- [[Democratic Oumun]]
+	- Bator
+	- Gondia
 	- 
 - Poles:
 	- [[Landam]]
-	- 
+	- Roadside
 ## Religions
 
 [[Religions.canvas|Religions]]

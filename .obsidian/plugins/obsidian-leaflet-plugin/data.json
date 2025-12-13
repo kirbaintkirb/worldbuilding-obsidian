@@ -78,16 +78,16 @@
     },
     {
       "id": "world-map",
-      "lastAccessed": 1765132343072,
+      "lastAccessed": 1765593487118,
       "markers": [
         {
-          "id": "ID_aa7a5848aa7b",
+          "id": "ID_d8ebd8bb8b39",
           "type": "default",
           "loc": [
-            -676.5907041609655,
-            860.195399313435
+            -2010.0173167834973,
+            2147.129741072951
           ],
-          "link": "Rosalia",
+          "link": "Republic of Teresal",
           "layer": "%5B%5Bworld.png%5D%5D",
           "mutable": true,
           "command": false,
@@ -98,33 +98,13 @@
           "tooltip": "hover"
         },
         {
-          "id": "ID_28bb184a5b88",
+          "id": "ID_397a599a79b9",
           "type": "default",
           "loc": [
-            -330,
-            608
+            -882.59375,
+            1268.5
           ],
-          "link": "Ametrie",
-          "layer": "%5B%5Bworld.png%5D%5D",
-          "mutable": true,
-          "command": false,
-          "percent": [
-            0.45474943904263276,
-            0.3488372093023256
-          ],
-          "description": null,
-          "minZoom": null,
-          "maxZoom": null,
-          "tooltip": "hover"
-        },
-        {
-          "id": "ID_3bea39e90819",
-          "type": "default",
-          "loc": [
-            -464.84375,
-            1162.5
-          ],
-          "link": "Makro",
+          "link": "Kingdom of Papoli",
           "layer": "%5B%5Bworld.png%5D%5D",
           "mutable": true,
           "command": false,
@@ -135,13 +115,13 @@
           "tooltip": "hover"
         },
         {
-          "id": "ID_a9bb0a6b3b48",
+          "id": "ID_dad9292af938",
           "type": "default",
           "loc": [
-            -860.84375,
-            638.5
+            -1484.59375,
+            450.5
           ],
-          "link": "Kasha",
+          "link": "Democratic Oumun",
           "layer": "%5B%5Bworld.png%5D%5D",
           "mutable": true,
           "command": false,
@@ -152,13 +132,13 @@
           "tooltip": "hover"
         },
         {
-          "id": "ID_1b18696aba09",
+          "id": "ID_6a3b09eac9c9",
           "type": "default",
           "loc": [
-            -706.84375,
-            424.5
+            -1136.59375,
+            230.5
           ],
-          "link": "Apetra",
+          "link": "Hphagpa Dominion",
           "layer": "%5B%5Bworld.png%5D%5D",
           "mutable": true,
           "command": false,
@@ -169,13 +149,13 @@
           "tooltip": "hover"
         },
         {
-          "id": "ID_b8a9cbb95ad8",
+          "id": "ID_392b48cb38f8",
           "type": "default",
           "loc": [
-            -522.84375,
-            140.5
+            -230.59375,
+            1752.5
           ],
-          "link": "Fortuna",
+          "link": "Landam",
           "layer": "%5B%5Bworld.png%5D%5D",
           "mutable": true,
           "command": false,
@@ -186,13 +166,13 @@
           "tooltip": "hover"
         },
         {
-          "id": "ID_ea6ab88b0b88",
+          "id": "ID_4bd98ba8bab9",
           "type": "default",
           "loc": [
-            -48.84375,
-            662.5
+            -1454.59375,
+            3234.5
           ],
-          "link": "Poles",
+          "link": "Telemach",
           "layer": "%5B%5Bworld.png%5D%5D",
           "mutable": true,
           "command": false,
@@ -203,13 +183,64 @@
           "tooltip": "hover"
         },
         {
-          "id": "ID_29ebb9c82bb8",
+          "id": "ID_19f8badb0a2b",
           "type": "default",
           "loc": [
-            -144.84375,
-            1034.5
+            -1310.59375,
+            2920.5
           ],
-          "link": "Icro",
+          "link": "Commonwealth of Canthara",
+          "layer": "%5B%5Bworld.png%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": null,
+          "description": null,
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_998a4b09c9e8",
+          "type": "default",
+          "loc": [
+            -1742.59375,
+            2654.5
+          ],
+          "link": "Chrysopelagi",
+          "layer": "%5B%5Bworld.png%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": null,
+          "description": null,
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_eafbca39f9cb",
+          "type": "default",
+          "loc": [
+            -1562.59375,
+            2630.5
+          ],
+          "link": "Barra",
+          "layer": "%5B%5Bworld.png%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": null,
+          "description": null,
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_1b3a3929ab3b",
+          "type": "default",
+          "loc": [
+            -1450.59375,
+            2444.5
+          ],
+          "link": "Catatumbo",
           "layer": "%5B%5Bworld.png%5D%5D",
           "mutable": true,
           "command": false,
