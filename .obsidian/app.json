@@ -3,5 +3,8 @@
   "showLineNumber": false,
   "rightToLeft": false,
   "defaultViewMode": "preview",
-  "strictLineBreaks": true
+  "strictLineBreaks": true,
+  "userIgnoreFilters": [
+    "src/Hidden/"
+  ]
 }

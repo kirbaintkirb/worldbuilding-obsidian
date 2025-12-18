@@ -2,6 +2,12 @@
 
 *"The Newest World"*
 
-![[rosalia.png]]
+Rosalia is a [[Plates|plate]] in [[Chroma]], it was the third continent to be discovered through [[Interplate Vessels]] after [[Makro]].
 
-Adalaidia is a [[Plates|plate]] in [[Chroma]], it was the second continent to be discovered after [[Makro]]
+## List of States and Territories
+
+- [[Republic of Teresal]]
+- [[Chrysopelagi]]
+- [[Barra]]
+- [[Catatumbo]]
+- 

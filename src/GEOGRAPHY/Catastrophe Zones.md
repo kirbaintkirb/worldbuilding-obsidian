@@ -25,7 +25,7 @@ Though rare, some reported cases of pockets of no oxygen, or even no ocean have 
 
 #### 4. Rigor Zone
 
-At this point the ocean traversal though normal boats is impossible, as thick ice covers the rest of the ocean. From her onward travel is done through specialized [[Long Distance Vessels]], that can cross the ice and the Core zone.
+At this point the ocean traversal though normal boats is impossible, as thick ice covers the rest of the ocean. From her onward travel is done through specialized [[Interplate Vessels]], that can cross the ice and the Core zone.
 
 #### 5. Limbo
 

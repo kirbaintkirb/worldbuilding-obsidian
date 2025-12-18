@@ -28,7 +28,7 @@ Sanity Age
 - [[Rosalia]]
 - [[Makro]]
 - [[Icro]]
-- [[Apetra]]
+- [[Apetr]]
 - [[Poles]]
 - [[Ametrie]]
 - [[Fortuna]]
@@ -44,44 +44,47 @@ Sanity Age
 - Makro:
 	- [[Telemach]]
 	- [[Commonwealth of Canthara]]
-	- Vicuña
-	- Colibri
-- Apetra:
+	- [[Vicuña]]
+	- [[Colibri]]
+	- 
+- Apetr:
 	- [[Alda]]
 	- [[Chatte]]
-	- Misir
-	- Baku
-	- Hadiqa
-	- Fleuve
+	- [[Misir]]
+	- [[Baku]]
+	- [[Hadiqa]]
+	- [[Fleuve]]
 	- 
 - Ametrie:
 	- [[City-State of Villuvi]]
 	- [[Kingdom of Papoli]]
 	- [[Limme]]
 	- [[Acuvalli]]
-	- Coir
-	- Quiltland
-	- Bomius
-	- Kempeli
-	- Siglufjördr
-	- Fronisi
-	- Brinepetre
-	- 
+	- [[Coir]]
+	- [[Quiltland]]
+	- [[Bomius]]
+	- [[Kempeli]]
+	- [[Siglufjördr]]
+	- [[Fronisi]]
+	- [[Brinepetre]]
+	- Lairs
+	- Lydian
+	- Mixolydian
 - Fortuna:
 	- [[Hphagpa Dominion]]
 	- [[Santana]]
 	- [[Democratic Oumun]]
-	- Bator
-	- Gondia
+	- [[Bator]]
+	- [[Gondia]]
 	- 
 - Poles:
 	- [[Landam]]
-	- Roadside
+	- [[Roadside]]
 ## Religions
 
 [[Religions.canvas|Religions]]
 - [[Sanatorism]]
-- [[Retorcionism]]
+- [[Rotatorism]]
 - [[Carnism]]
 - [[Accretionism]]
 
@@ -89,7 +92,7 @@ Sanity Age
 
 - [[Sprit]]
 - [[Form]]
-- [[Long Distance Vessels]]
+- [[Interplate Vessels]]
 
 ## Exoterism
 

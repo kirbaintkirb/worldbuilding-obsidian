@@ -8,7 +8,7 @@
         "type": "tabs",
         "children": [
           {
-            "id": "465b704d7e095923",
+            "id": "5e52479cd4f63a17",
             "type": "leaf",
             "pinned": true,
             "state": {
@@ -26,13 +26,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "src/Table of contents.md",
+                "file": "src/Hidden/Names.md",
                 "mode": "source",
                 "source": false
               },
               "pinned": true,
               "icon": "lucide-file",
-              "title": "Table of contents"
+              "title": "Names"
             }
           },
           {
@@ -53,49 +53,63 @@
             }
           },
           {
-            "id": "07745b81ff97eb84",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "src/COUNTRIES/Adalaidia/Republic of Teresal.md",
-                "mode": "preview",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Republic of Teresal"
-            }
-          },
-          {
-            "id": "232406beb883c704",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "src/Table of contents.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Table of contents"
-            }
-          },
-          {
             "id": "fa8a594f9ae08417",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "src/GEOGRAPHY/Chroma.md",
+                "file": "src/GEOGRAPHY/CONTINENTS/Apetr.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Apetr"
+            }
+          },
+          {
+            "id": "746ea0d5eabb7042",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "src/TECHNOLOGY/Interplate Vessels.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Interplate Vessels"
+            }
+          },
+          {
+            "id": "5a428f70682627e1",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "src/GEOGRAPHY/CONTINENTS/Rosalia.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Rosalia"
+            }
+          },
+          {
+            "id": "e5834b99ae27153a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "src/Hidden/Names.md",
                 "mode": "preview",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Chroma"
+              "title": "Names"
             }
           }
         ],
-        "currentTab": 5
+        "currentTab": 6
       }
     ],
     "direction": "vertical"
@@ -267,40 +281,41 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "fa8a594f9ae08417",
+  "active": "5b65bbf5bfb29261",
   "lastOpenFiles": [
-    "src/GEOGRAPHY/Plates.md",
     "src/GEOGRAPHY/Chroma.md",
+    "src/Hidden/Names.md",
+    "src/Hidden",
+    "src/GEOGRAPHY/CONTINENTS/Rosalia.md",
+    "src/GEOGRAPHY/CONTINENTS/Ametrie.md",
+    "src/GEOGRAPHY/CONTINENTS/png/rosalia.png",
+    "src/GEOGRAPHY/CONTINENTS/png/ametrie.png",
+    "src/GEOGRAPHY/CONTINENTS/Apetr.md",
+    "src/GEOGRAPHY/CONTINENTS/Fortuna.md",
+    "src/GEOGRAPHY/CONTINENTS/Icro.md",
+    "src/GEOGRAPHY/CONTINENTS/Kasha.md",
+    "src/GEOGRAPHY/CONTINENTS/Makro.md",
+    "src/RELIGIONS/Religions.canvas",
+    "src/TECHNOLOGY/Interplate Vessels.md",
+    "src/GEOGRAPHY/CONTINENTS/Poles.md",
+    "src/RELIGIONS/Rotatorism.md",
+    "src/RELIGIONS/Sanatorism.md",
+    "src/Hidden/Main.md",
     "src/GEOGRAPHY/world.png",
-    "src/Table of contents.md",
+    "src/GEOGRAPHY/Catastrophe Zones.md",
+    "src/COUNTRIES/Makro/Commonwealth of Canthara.md",
+    "src/RELIGIONS/img",
+    "src/GEOGRAPHY/Plates.md",
     "src/COUNTRIES/Adalaidia/Republic of Teresal.md",
-    "src/GEOGRAPHY/world.png",
     "src/COUNTRIES/Adalaidia/flag_teresal.png",
     "src/COUNTRIES/Makro/Telemach.md",
     "templates/country.md",
     "src/TECHNOLOGY/Omega Bombs.md",
-    "src/TECHNOLOGY/Long Distance Vessels.md",
     "src/HISTORY/3 - CURRENT ERA/Borealis Disaster.md",
     "src/HISTORY/3 - CURRENT ERA/Current Age.md",
     "src/HISTORY/3 - CURRENT ERA/Yearly War.md",
     "src/HISTORY/3 - CURRENT ERA/Clean Wars.md",
-    "src/RELIGIONS/Religions.canvas",
-    "src/GEOGRAPHY/CONTINENTS/Ametrie.md",
-    "src/GEOGRAPHY/CONTINENTS/Apetra.md",
-    "src/COUNTRIES/Makro/Commonwealth of Canthara.md",
-    "src/HISTORY/1 - FRACTURED ERA/Stentorian Ruin.md",
-    "src/RELIGIONS/Retorcionism.md",
-    "src/RELIGIONS/Sanatorism.md",
-    "src/GEOGRAPHY/CONTINENTS/Rosalia.md",
-    "src/GEOGRAPHY/Catastrophe Zones.md",
-    "src/COUNTRIES/Fortuna/Democratic Oumun.md",
-    "src/GEOGRAPHY/CONTINENTS/png/rosalia.png",
-    "src/GEOGRAPHY/CONTINENTS/png/ametrie.png",
     "src/GEOGRAPHY/CONTINENTS/png",
-    "src/COUNTRIES/Adalaidia/Chrysopelagi.md",
-    "src/COUNTRIES/Adalaidia/Barra.md",
-    "Adalaidia.md",
-    "src/TECHNOLOGY/Sprit.md",
     "src/COUNTRIES/Makro/mater&twins_ametrie.png",
     "src/COUNTRIES/Apetra",
     "src/COUNTRIES/Makro",
@@ -309,8 +324,6 @@
     "src/EXOTERISM",
     "Untitled",
     "src/TECHNOLOGY",
-    "src/COUNTRIES/Fortuna",
-    "src/COUNTRIES/Ametrie",
     "src/GEOGRAPHY/world1.png",
     "world.png",
     "src/GEOGRAPHY/Plates.canvas",
