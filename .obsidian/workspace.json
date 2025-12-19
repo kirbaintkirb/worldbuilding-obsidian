@@ -53,45 +53,17 @@
             }
           },
           {
-            "id": "fa8a594f9ae08417",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "src/GEOGRAPHY/CONTINENTS/Apetr.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Apetr"
-            }
-          },
-          {
-            "id": "746ea0d5eabb7042",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "src/TECHNOLOGY/Interplate Vessels.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Interplate Vessels"
-            }
-          },
-          {
             "id": "5a428f70682627e1",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "src/GEOGRAPHY/CONTINENTS/Rosalia.md",
+                "file": "src/HISTORY/1 - FRACTURED ERA/Stentorian Ruin.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Rosalia"
+              "title": "Stentorian Ruin"
             }
           },
           {
@@ -100,16 +72,16 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "src/Hidden/Names.md",
-                "mode": "preview",
+                "file": "src/GEOGRAPHY/CONTINENTS/Apeter.md",
+                "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Names"
+              "title": "Apeter"
             }
           }
         ],
-        "currentTab": 6
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -281,49 +253,50 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "5b65bbf5bfb29261",
+  "active": "5a428f70682627e1",
   "lastOpenFiles": [
-    "src/GEOGRAPHY/Chroma.md",
-    "src/Hidden/Names.md",
-    "src/Hidden",
+    "src/TECHNOLOGY/Form.md",
+    "src/GEOGRAPHY/Catastrophe Zones.md",
+    "src/TECHNOLOGY/Interplate Vessels.md",
+    "src/HISTORY/3 - CURRENT ERA/2999 - Late/Borealis Launch.md",
+    "src/Hidden/Main.md",
+    "src/HISTORY/3 - CURRENT ERA/2999 - Late/Borealis Disaster.md",
+    "src/RELIGIONS/Carnism.md",
     "src/GEOGRAPHY/CONTINENTS/Rosalia.md",
+    "src/GEOGRAPHY/CONTINENTS/Apeter.md",
+    "src/RELIGIONS/Religions.canvas",
+    "src/HISTORY/1 - FRACTURED ERA/Stentorian Ruin.md",
+    "src/HISTORY/3 - CURRENT ERA/2900 - Early/Yearly War.md",
+    "src/TECHNOLOGY/Omega Bombs.md",
+    "src/RELIGIONS/Rotatorism.md",
+    "src/HISTORY/3 - CURRENT ERA/2999 - Late",
+    "src/HISTORY/3 - CURRENT ERA/2950 - Mid",
+    "src/HISTORY/3 - CURRENT ERA/2900 - Early",
+    "src/RELIGIONS/Sanatorism.md",
+    "src/Hidden/Names.md",
+    "src/GEOGRAPHY/Chroma.md",
+    "src/Hidden",
     "src/GEOGRAPHY/CONTINENTS/Ametrie.md",
     "src/GEOGRAPHY/CONTINENTS/png/rosalia.png",
     "src/GEOGRAPHY/CONTINENTS/png/ametrie.png",
-    "src/GEOGRAPHY/CONTINENTS/Apetr.md",
     "src/GEOGRAPHY/CONTINENTS/Fortuna.md",
     "src/GEOGRAPHY/CONTINENTS/Icro.md",
     "src/GEOGRAPHY/CONTINENTS/Kasha.md",
     "src/GEOGRAPHY/CONTINENTS/Makro.md",
-    "src/RELIGIONS/Religions.canvas",
-    "src/TECHNOLOGY/Interplate Vessels.md",
     "src/GEOGRAPHY/CONTINENTS/Poles.md",
-    "src/RELIGIONS/Rotatorism.md",
-    "src/RELIGIONS/Sanatorism.md",
-    "src/Hidden/Main.md",
     "src/GEOGRAPHY/world.png",
-    "src/GEOGRAPHY/Catastrophe Zones.md",
     "src/COUNTRIES/Makro/Commonwealth of Canthara.md",
     "src/RELIGIONS/img",
     "src/GEOGRAPHY/Plates.md",
     "src/COUNTRIES/Adalaidia/Republic of Teresal.md",
     "src/COUNTRIES/Adalaidia/flag_teresal.png",
     "src/COUNTRIES/Makro/Telemach.md",
-    "templates/country.md",
-    "src/TECHNOLOGY/Omega Bombs.md",
-    "src/HISTORY/3 - CURRENT ERA/Borealis Disaster.md",
-    "src/HISTORY/3 - CURRENT ERA/Current Age.md",
-    "src/HISTORY/3 - CURRENT ERA/Yearly War.md",
-    "src/HISTORY/3 - CURRENT ERA/Clean Wars.md",
     "src/GEOGRAPHY/CONTINENTS/png",
     "src/COUNTRIES/Makro/mater&twins_ametrie.png",
     "src/COUNTRIES/Apetra",
     "src/COUNTRIES/Makro",
     "src/HISTORY/2 - SANITY ERA",
     "src/HISTORY/3 - CURRENT ERA",
-    "src/EXOTERISM",
-    "Untitled",
-    "src/TECHNOLOGY",
     "src/GEOGRAPHY/world1.png",
     "world.png",
     "src/GEOGRAPHY/Plates.canvas",

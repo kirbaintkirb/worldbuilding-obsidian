@@ -31,6 +31,7 @@ At this point the ocean traversal though normal boats is impossible, as thick ic
 
 Here the sky is visible, no other climate effects cross over into this zone. there is however, no ground to cross or air to breathe, therefore this zone is not traversable without the help of limbic vessels. 
 
+Limbo has an extreme amount of negative pressure caused by gravitational anomalies, however that isn't the only difficulty. Limbo is locked in place, atoms are completely affixed to themselves, and will want to bond with any other materials. Meaning the Limbo is traversable until you move in it, in which case the extreme environment will begin to assimilate material onto itself, the material is potentially lost as it turns into pure gaseous [[Form]].
 
 ### Travel
 

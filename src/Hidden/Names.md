@@ -28,7 +28,7 @@ Sanity Age
 - [[Rosalia]]
 - [[Makro]]
 - [[Icro]]
-- [[Apetr]]
+- [[Apeter]]
 - [[Poles]]
 - [[Ametrie]]
 - [[Fortuna]]

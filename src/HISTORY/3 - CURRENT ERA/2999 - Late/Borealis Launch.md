@@ -1,0 +1,3 @@
+Staged for January 1st, 2999. The [[Borealis Disaster|Borealis 12 Mission]] is the first manned space launch by Villuvi-Telemachian partnership. After years of attempting to set up a livable Satellite, their first experiment with animals was a success, and they will send three cosmonauts to the orbit of the World.
+
+The Borealis 12 is a space vessel, designed to exit [[Chroma|Chroma's]] atmosphere, powered by an [[Idyllic]] motor, it can handle the lack of pressure and reach high velocities. It is not the same as a [[Interplate Vessels|interplate vessel]], which can handle the [[Catastrophe Zones#5. Limbo|Limbo's]] extreme pressure and lack of temperature.

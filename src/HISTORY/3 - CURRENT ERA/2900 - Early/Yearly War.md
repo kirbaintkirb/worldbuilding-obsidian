@@ -1,0 +1,3 @@
+#stub 
+
+The Yearly Wars was a conflict that started in 2899 and ended in 2942, it was marked by the constant peace deals, which were broken every year in a conflict escalation. The yearly war was fought between Ametrian, Makroan and Fortune nations. The escalation ended when the [[City-State of Villuvi]], was bombarded by an [[Omega Bombs|idylic warhead]], which created a large crater where the city used to be.

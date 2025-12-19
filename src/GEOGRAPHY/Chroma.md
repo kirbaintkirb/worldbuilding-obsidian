@@ -3,7 +3,7 @@
 
 The World, Chroma, Yard, Aeden,  or Varna is a  dubiously planetary collection of masses called [[Plates]], separated by [[Catastrophe Zones|vacuum]]. It is the place where all of life presumably exists and acts.
 
-The World has about 5 macro Plates: [[Ametrie]], [[Apetr]], [[Rosalia]], [[Fortuna]] and [[Makro]]. And the three smaller: [[Kasha]], [[Icro]] and [[Poles]]
+The World has about 5 macro Plates: [[Ametrie]], [[Apeter]], [[Rosalia]], [[Fortuna]] and [[Makro]]. And the three smaller: [[Kasha]], [[Icro]] and [[Poles]]
 
 ```leaflet
 id: world-map

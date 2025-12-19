@@ -6,13 +6,13 @@ Most written records of the Stentorian have disappeared with time, oral traditio
 
 ### Paleontological
 
-Most compelling evidence of the world once being a singular plate is the fact that fossil records of multiple species have been found across [[Catastrophe Zones]], most notably was the comparison of the fossil of the lithosaur from the genus *Ammosaurus*, first discovered in the year 2899 in [[Apetr]], the lithosaur was assumed to have been present only in that plate, however in 2964, new evidence of another fossil in the neighboring plate [[Ametrie]] was found, the full set having been found by combining fossils from the plates. 
+Most compelling evidence of the world once being a singular plate is the fact that fossil records of multiple species have been found across [[Catastrophe Zones]], most notably was the comparison of the fossil of the lithosaur from the genus *Ammosaurus*, first discovered in the year 2899 in [[Apeter]], the lithosaur was assumed to have been present only in that plate, however in 2964, new evidence of another fossil in the neighboring plate [[Ametrie]] was found, the full set having been found by combining fossils from the plates. 
 
-A secondary case, involving [[Makro]] and [[Rosalia]], where Carnitte fossil were found in the Sapientia sea and the Gulf of 
+A secondary case, involving [[Makro]] and [[Rosalia]], where *Carnitte* fossils were found in the Sapientia sea and the Gulf of Canthara
 
 ### Archaeological
 
-Most of the pre-Stentorian records were found in Rose script stellae
+Most of the pre-Stentorian records were found in Rose script stellae. Which like fossils, had interplate coherent appearances. Most notably in [[Apeter]], Ametrie and [[Fortuna]], the Rosal Plates. The large quantity of written material indicated that the pre-Stentorian civilization might've been quite advanced, with agricultural and architectural stability strong enough to survive the Stentorian. But since no true translation exists, actual evidence of it being anything more than city dwellers.
 
 ## The 40 days
 

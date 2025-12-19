@@ -1,0 +1,3 @@
+#stub
+
+Yesterday night, December 10th, 2998, [[Frei-Maré]] was showered in space debris. While nobody was harmed, the debris has not been able to be identified, though the few ceramic pieces that have been collected seem similar to Villuvi-Telemachian spaceships. No launch or currently existing satellite was unaccounted for, investigators and researchers alike are calling this a mysterious accident.
