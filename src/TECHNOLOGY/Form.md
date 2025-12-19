@@ -10,6 +10,8 @@ Form is a copy material, if enough energy goes through it the form will become a
 
 ### Sprit effect
 
-The main effect and application of Form is to exploit the sprit effect, since Form is an imaginary charge you can use it to harness and contain energy from the background [[Idyllic ]] Plane, by opening a small incision that lets the Form draw in the raw energy.
+The sprit effectt is the recursive generation of energy utilizing formatite. If form is contained in an element with an odd atomic number it will not copy it and can maintain any charge applied to it. The sprit effect happens due to the imaginary charge, since thermodynamics only affects real values, the imaginary value can accumulate energy potentially forever.
+
+This however is not true, sprit is limited, only plentiful, the origin of the energy is from the background [[Idyllic ]]Plane, by opening a small incision that lets the Form draw in the raw energy, with little physical cost, but with the drawback of imaginary thermodynamics. 
 
 Formatite is extremely toxic to brain tissue, causing Form poisoning, as the kidneys can't remove the metal, it accumulate around the brain, specifically the corpus callossum, which causes it to mineralize.
