@@ -1,5 +1,15 @@
-## THE MARTYR WHO WILL BEAR THE CROSS INTO THE EDGE OF THE WORLD
+> [!infobox| right wikipedia]
+> # Marina da Costa
+> 
+>![[maria_bethania.jpg]]
+> 
+> | Full name | Marina Álvaro da Costa |
+> | ---- | -- |
+> | Age | 29 |
+> | Nationality |  Teresalian |
+> | Birthplace | [[Frei-Maré]] |
 
-Marina is a [[Republic of Teresal|teresalian]] dark haired woman, about 170 cm tall, she is often seen with a pendant of some sort.
 
-On the 12th of December, Marina woke up with sunlight at her desk despite being midnight. Tomorrow she will see a friend, but today she does not seem to exist.
+Marina da Costa Álvaro is a Teresalian woman, and the Martyr of the Idyllic. She is a normal woman who is studying science and moved back to her birth town to study natural sciences. She used to live in the deep country after leaving with a religious mission, she does not remember what happened during that period once arriving in the metropolis.
+
+In her childhood she was pejoratively called "Muda" or "Mute", due to being extremely shy and with a low volume voice, she was befriended by her

@@ -33,8 +33,10 @@ Here the sky is visible, no other climate effects cross over into this zone. the
 
 Limbo has an extreme amount of negative pressure caused by gravitational anomalies, however that isn't the only difficulty. Limbo is locked in place, atoms are completely affixed to themselves, and will want to bond with any other materials. Meaning the Limbo is traversable until you move in it, in which case the extreme environment will begin to assimilate material onto itself, the material is potentially lost as it turns into pure gaseous [[Form]].
 
+The Limbo doesn't completely swallow the other zones or even the plates due to the [[Form#Sprit effect|Sprit]] and [[Form#Camouflage|Camo]] effects of Form, since new matter is copied, or not overwritten, and the energy to maintain that reaction ends up being constant. Stabilizing the plates.
+
 ### Travel
 
 While the pockets of air diminish the effect of the initial rising column of water, the negative gravity and the vacuum poses a problem. An aeronautical vessel must be able to cross the core vacuum to reach the other side and maintain it's speed enough as to not be repelled back by the negative gravity.
 
-To fix this, the implementation of an engine that utilizes [[Sprit|sprit]] devices is utilize to generate a constant burst of power, to counteract the lack of gravity, thus creating the first specimens 
+To fix this, the implementation of an engine that utilizes [[Sprit|sprit]] devices was created to  generate a constant burst of power, to counteract the lack of gravity, thus creating the first specimens of [[Interplate Vessels]]. 

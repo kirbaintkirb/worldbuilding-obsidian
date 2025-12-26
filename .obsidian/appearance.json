@@ -1,9 +1,10 @@
 {
   "cssTheme": "ITS Theme",
-  "interfaceFontFamily": "",
+  "interfaceFontFamily": "Encode Sans",
   "baseFontSize": 14,
   "textFontFamily": "Libre Baskerville",
   "nativeMenus": false,
   "theme": "obsidian",
-  "baseFontSizeAction": false
+  "baseFontSizeAction": false,
+  "accentColor": ""
 }
