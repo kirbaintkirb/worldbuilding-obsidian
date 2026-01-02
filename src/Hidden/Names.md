@@ -85,7 +85,7 @@ Sanity Age
 [[Religions.canvas|Religions]]
 - [[Sanatorism]]
 - [[Rotatorism]]
-- [[Carnism]]
+- [[Kreatism]]
 - [[Accretionism]]
 
 ## Technology

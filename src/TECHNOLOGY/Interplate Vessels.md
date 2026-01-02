@@ -6,5 +6,5 @@ The first Long Distance Vessel was the Warbler, a hulking 20.000 tons vessel, sh
 
 The Warbler's wreckage landed in what is now [[Fleuve]] in [[Apeter]], and was able to analyse the plate with some accuracy.
 
-The first manned Interplate Vessel was launched a year later in [[Kingdom of Papoli|Papoli]], the three people involved, Coste Angstrom, Ilio Silva and Darcy Graves were sent on a vessel baptized the Wild Beast, a much smaller vessel and with the ability to make curves much better than the Warbler did. The Wild Beast crossed Limbo on July 16th 2500, and curved above [[Canthara]] to return to [[Ametrie]], landing in the Ametrial Sea with minimal injuries.
+The first manned Interplate Vessel was launched a year later in [[Kingdom of Papoli|Papoli]], the three people involved, Coste Angstrom, Ilio Silva and Darcy Graves were sent on a vessel baptized the Wild Beast, a much smaller vessel and with the ability to make curves much better than the Warbler did, and sporting an Idyllic engine the Kreatiivmotor produced in [[Narva]]. The Wild Beast crossed Limbo on July 16th 2500, and curved above [[Canthara]] to return to [[Ametrie]], landing in the Ametrial Sea with minimal injuries.
 

@@ -4,13 +4,13 @@ Formatite as an element is poorly understood, though there have been empirical o
 
 It's actual atomic components however feature no similarities to any existing elements, it is the zero-th element, featuring no protons, but rather imaginary particles that act as positive charges.
 
-## Camouflage
+## Reaction 
 
-Form is a copy material, if enough energy goes through it the form will become a material of the same molecule it is surrounded by maintaining the density, though not the size. The imaginary charge is nullified and culled from the imaginary axis, only leaving a real element. Curiously only elements with an even atomic number can be recreated.
+Form will increase the energy released by an reaction, small energies can become tangible enough to have greater yield. A common application for example is to increase the usable time of flashlights, also used in idyllic engines, which can handle the increase in effect
 
 ### Sprit effect
 
-The sprit effectt is the recursive generation of energy utilizing formatite. If form is contained in an element with an odd atomic number it will not copy it and can maintain any charge applied to it. The sprit effect happens due to the imaginary charge, since thermodynamics only affects real values, the imaginary value can accumulate energy potentially forever.
+The sprit effectt is the recursive generation of energy utilizing formatite. If two form ingots are contained in any element it and can maintain any charge applied to it. The sprit effect happens due to the imaginary charge, since thermodynamics only affects real values, the imaginary value can accumulate energy potentially forever.
 
 This however is not true, sprit is limited, only plentiful, the origin of the energy is from the background [[Idyllic ]]Plane, by opening a small incision that lets the Form draw in the raw energy, with little physical cost, but with the drawback of imaginary thermodynamics. 
 

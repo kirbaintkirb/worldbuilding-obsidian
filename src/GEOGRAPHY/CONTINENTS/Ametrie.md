@@ -15,6 +15,9 @@
 - [[Siglufjördr]]
 - [[Fronisi]]
 - [[Brinepetre]]
-- Lairs
-- Lydian
-- Mixolydian
+- [[Lairs]]
+- [[Lydian]]
+- [[Mixolydian]]
+- [[Narva]]
+- [[Krahvkond]]
+- 
