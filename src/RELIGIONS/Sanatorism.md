@@ -20,7 +20,7 @@ Sanities are those who through practice have discovered ways to take care of the
 
 Though not necessarily the most important, here are a few Sanities:
 
-- Dea the 0th: The first sanity ever, described as completely inhuman, bordering animalistic.
+- Dea the 0th: The first sanity ever, described as completely inhuman, bordering animalistic and purely conceptual.
 
 - Peter the 1st: The first human sanity, attained through the ritual of breathing, story-telling and self-flagellation. Depicted without a face and a bullwhip.
 
@@ -28,14 +28,24 @@ Though not necessarily the most important, here are a few Sanities:
 
 - Rosa the 21st: (Named the plate [[Rosalia]]), attained sanity through the ritual of tilling, deciphering and rotting. Depicted with a mummified hand, still attached.
 
-- Sebastian the 76th: attained sanity through archery, lucid dreaming and arsenic. Depicted with a green bow and arrow
+- Sebastian the 76th: attained sanity through archery, lucid dreaming and arsenic. Depicted with a green bow and arrow, and a crown of thorns.
 
 - Garza the 108th: (Patron of [[City-State of Villuvi|Villuvi]]) The most recent sanity, attained through swimming, limbic exploration and exploding. Depicted with a glass bowl atop his head,
 
 ## Rituals
 
-The main ritual of Sanatorism comes from that maintaining of the wafer of life, a person can utilize any or most of the methods used by the sanity to achieve Post-life.
+The main ritual of Sanatorism comes from that maintaining of the wafer of life, a person can utilize any or most of the methods used by the sanity to achieve Post-life. 
 
+A faithful does not need to do every single ritual, instead the rituals are exclusive to someone, and usually chosen by a priest. Whatever symptom is being felt by the faithful, has a ritual. If a faithful does not have anything in mind, they participate in the daily ritual.
+
+The Daily Ritual is a structured prayer to Dea and the Wafer, first spoken, then followed by the rituals of Peter, employing breath control.
+
+*Graceful Dea, watching distantly,
+Wash away the sorrows of my core,
+And kill the grief of your departure,
+Now and forever, in sanity i remain.*
+
+The self-flagellation is done symbolically with a small harmless feather duster, attached to a rope, called a palid discipline. The historically utilized harmful variation of the whip, known as the crimson discipline, is utilized only in a few sanatorian sects, as the palid is the dominant form of prayer.
 
 ### Meta
 
