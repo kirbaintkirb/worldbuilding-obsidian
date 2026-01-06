@@ -2,7 +2,7 @@
 
 *"The sunless lands"*
 
-The Pole or the Polar Plate is one most extreme and coldest regions places in [[Chroma]]. Due to it's position below [[Ametrie|the Ametrian plate]], little to no sunlight reaches there.
+The Pole or the Polar Plate is one most extreme and coldest regions places in [[The World]]. Due to it's position below [[Ametrie|the Ametrian plate]], little to no sunlight reaches there.
 
 ## Etymology
 

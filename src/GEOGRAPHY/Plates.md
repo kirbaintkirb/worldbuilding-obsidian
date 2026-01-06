@@ -2,4 +2,4 @@
 
 Plates are continental landforms completely surrounded by [[Catastrophe Zones]], containing an atmosphere, hydrosphere and litosphere. Plates as we know them used to be part of a single unified spherical shape given their curvature and satellite analysis. That shape however is long gone, as the [[Stentorian Ruin]] completely altered the form of the planet.
 
-Plates are assumed to vaguely follow a certain curvatur, however outliers like [[Poles]], and [[Icro]] with respectively lower and higher altitudes exist.
+Plates are assumed to vaguely follow a certain curvature, which is the hypothetical curvature of the Original Object, however  due to the Stentorian, plates have different heights in relation to eachother, plates like [[Poles]], and [[Icro]], which are below and above other plates exist. Due to this the Core measurement schema was created, as a navigational tool that can consider all necessary axes, Latitude, Longitude and Core Altitude

@@ -4,7 +4,7 @@ The Kreatist religion is a polytheistic cult originated in the ancient region of
 
 Kreatism did not have a canon, though modern practices utilize a secular text, the actual practices were spread out and thinned across the city states in Ancient Kera. 
 
-The Kreati is described as the material of the world itself, and and can be synonymous with a word for [[Chroma|the world]]. The flesh has attributes
+The Kreati is described as the material of the world itself, and and can be synonymous with a word for [[The World|the world]]. The flesh has attributes
 
 - Vro The Rain
 - Py The Gate

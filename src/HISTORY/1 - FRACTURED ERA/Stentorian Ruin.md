@@ -1,4 +1,4 @@
-The Stentorian Ruin, or the Stentorian Period is the first defining event of modern history or post-[[Ancient History]], marking the beginning of the [[Fractured Era]]. The Ruin was an event that broke up [[Chroma]] into its modern [[Plates]]. There is no information about what caused it or how Aeden broke into modern Chroma.
+The Stentorian Ruin, or the Stentorian Period is the first defining event of modern history or post-[[Ancient History]], marking the beginning of the [[Fractured Era]]. The Ruin was an event that broke up [[The World]] into its modern [[Plates]]. There is no information about what caused it or how Aeden broke into modern Chroma.
 
 ## Evidence
 

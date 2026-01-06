@@ -1,6 +1,6 @@
 *"Between all of us there is a Black Sea which forbids true connection"*
 
-Catastrophe Zones, CZs, also known colloquially as Black Seas are a catastrophic feature that exists on the edge of every continent of [[Chroma]], they are an extra dense column of vacuum that rises into the thermosphere, dividing the world into [[Plates]].
+Catastrophe Zones, CZs, also known colloquially as Black Seas are a catastrophic feature that exists on the edge of every continent of [[The World]], they are an extra dense column of vacuum that rises into the thermosphere, dividing the world into [[Plates]].
 
 ### Physical properties
 
@@ -31,9 +31,9 @@ At this point the ocean traversal though normal boats is impossible, as thick ic
 
 Here the sky is visible, no other climate effects cross over into this zone. there is however, no ground to cross or air to breathe, therefore this zone is not traversable without the help of limbic vessels. 
 
-Limbo has an extreme amount of negative pressure caused by gravitational anomalies, however that isn't the only difficulty. Limbo is locked in place, atoms are completely affixed to themselves, and will want to bond with any other materials. Meaning the Limbo is traversable until you move in it, in which case the extreme environment will begin to assimilate material onto itself, the material is potentially lost as it turns into pure gaseous [[Form]].
+Limbo has an extreme amount of negative pressure caused by gravitational anomalies, however that isn't the only difficulty. Limbo is locked in place, atoms are completely affixed to themselves, and will want to bond with any other materials, in a method similar to cold welding. Meaning the Limbo is traversable until you move in it, in which case the extreme environment will begin to assimilate material onto itself, the material is potentially lost as it turns into pure gaseous [[Form]].
 
-The Limbo doesn't completely swallow the other zones or even the plates due to the [[Form#Sprit effect|Sprit]] and [[Form#Camouflage|Camo]] effects of Form, since new matter is copied, or not overwritten, and the energy to maintain that reaction ends up being constant. Stabilizing the plates.
+The Limbo doesn't completely swallow the other zones or even the plates due to [[The World]] lacking a traditional orbit, it 
 
 ### Travel
 

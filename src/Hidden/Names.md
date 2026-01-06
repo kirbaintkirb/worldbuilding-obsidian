@@ -18,7 +18,7 @@ Sanity Age
 - 
 ## Geography
 
-- [[Chroma]]
+- [[The World]]
 - [[Catastrophe Zones]]
 
 ### Plates

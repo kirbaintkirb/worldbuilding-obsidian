@@ -2,7 +2,7 @@
 
 *"The Second World"*
 
-Makro is a [[Plates|Plate]] in [[Chroma]], it was the first one to have been explored after the [[Stentorian Ruin]] during the [[Ametrie|Ametrian colonization]] period.
+Makro is a [[Plates|Plate]] in [[The World]], it was the first one to have been explored after the [[Stentorian Ruin]] during the [[Ametrie|Ametrian colonization]] period.
 
 The first to arrive on the continent were [[Kingdom of Papoli]] then [[Limme]]
 

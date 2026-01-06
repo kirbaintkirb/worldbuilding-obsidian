@@ -1,4 +1,4 @@
-Formatite or simply Form is the only rare earth pseudo-metal, found near the Equatorial Line on the south of [[Chroma]], most commonly in [[Rosalia]], [[Apeter]] and [[Kasha]]. Form is utilized in [[Sprit]] motors and circuits.
+Formatite or simply Form is the only rare earth pseudo-metal, found near the Equatorial Line on the south of [[The World]], most commonly in [[Rosalia]], [[Apeter]] and [[Kasha]]. Form is utilized in [[Sprit]] motors and circuits.
 
 Formatite as an element is poorly understood, though there have been empirical observations regarding it's properties, it features an unknown melting point, though it is malleable and ductile, which makes it similar to a metal. 
 

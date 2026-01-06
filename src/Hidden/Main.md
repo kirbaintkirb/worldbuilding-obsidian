@@ -1,4 +1,4 @@
-[[Chroma]] is a globalized world. With the advent of overseas communication, there is now a complete deluge of information stored across the world. Silicon is extracted from the farthest reaches of the [[Catastrophe Zones|nocturnal seas]], and beneath the blues lies liquid gold that shines chemical rainbow.
+[[The World]] is a globalized world. With the advent of overseas communication, there is now a complete deluge of information stored across the world. Silicon is extracted from the farthest reaches of the [[Catastrophe Zones|nocturnal seas]], and beneath the blues lies liquid gold that shines chemical rainbow.
 
 But you don't get to see it.
 

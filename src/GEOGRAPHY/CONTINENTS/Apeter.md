@@ -2,7 +2,7 @@
 
 *"Land of Past Beginnings"*
 
-Apeter or Apedro is one of the five large [[Plates]] in [[Chroma]].
+Apeter or Apedro is one of the five large [[Plates]] in [[The World]].
 
 ## List of States and Territories
 
