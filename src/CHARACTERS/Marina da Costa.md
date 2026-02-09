@@ -1,7 +1,7 @@
 > [!infobox| right wikipedia]
 > # Marina da Costa
 > 
->![[maria_bethania.jpg]]
+>![[marina-new.png]]
 > 
 > | Full name | Marina Álvaro da Costa |
 > | ---- | -- |

@@ -27,7 +27,7 @@ Teresal was founded initially during the colonization period by Papoli and Limme
 
 Papoli arrived in Teresal in 2670, folllowed by Limme in 2677
 
-As the colonization process continued, the main commodities changed to agricultural products like honey and coffee, and most recently, extraction of [[Form]], which was found in an international deposit between Chrysopelagi and Barra.
+As the colonization process continued, the main commodities changed to agricultural products like honey and coffee, and most recently, extraction of [[Formatite]], which was found in an international deposit between Chrysopelagi and Barra.
 
 ## Politics
 

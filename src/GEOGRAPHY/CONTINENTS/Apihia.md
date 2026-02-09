@@ -2,7 +2,7 @@
 
 *"Land of Past Beginnings"*
 
-Apeter or Apedro is one of the five large [[Plates]] in [[The World]].
+Apihia or Apedro is one of the five large [[Plates]] in [[Mirus]].
 
 ## List of States and Territories
 
@@ -13,3 +13,6 @@ Apeter or Apedro is one of the five large [[Plates]] in [[The World]].
 - [[Hadiqa]]
 - [[Fleuve]]
 - Shaheb (grey)
+
+
+pihi (spring, well, greek)

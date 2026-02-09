@@ -1,7 +1,7 @@
 > [!infobox| right wikipedia]
 > # Rodrigo Boler
 > 
-> ![[Raul_Seixas_(1972)_colorized.tif.jpg]]
+> ![[rodrigo-new.png]]
 > 
 > | Full name | Rodrigo Santos Boler |
 > | ---- | -- |

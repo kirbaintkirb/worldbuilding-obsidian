@@ -6,6 +6,7 @@
       {
         "id": "c31ab745a646a560",
         "type": "tabs",
+        "dimension": 73.36417713152677,
         "children": [
           {
             "id": "5e52479cd4f63a17",
@@ -20,33 +21,17 @@
             }
           },
           {
-            "id": "8b16566f8f6760aa",
-            "type": "leaf",
-            "pinned": true,
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "src/Hidden/Names.md",
-                "mode": "source",
-                "source": false
-              },
-              "pinned": true,
-              "icon": "lucide-file",
-              "title": "Names"
-            }
-          },
-          {
             "id": "78cf07289f46f48d",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "src/CHARACTERS/Marina da Costa.md",
+                "file": "src/HISTORY/1 - FRACTURED ERA/Stentorian Ruin.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Marina da Costa"
+              "title": "Stentorian Ruin"
             }
           },
           {
@@ -78,35 +63,21 @@
             }
           },
           {
-            "id": "71df8a6ae5f9f371",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "src/CHARACTERS/Rodrigo Boler.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Rodrigo Boler"
-            }
-          },
-          {
-            "id": "2741777a2c9bada8",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "src/CHARACTERS/Andre Passo.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Andre Passo"
-            }
-          },
-          {
             "id": "85b1c2de8bd797fd",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "src/Hidden/Style Guide.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Style Guide"
+            }
+          },
+          {
+            "id": "146161881de82e48",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -118,9 +89,75 @@
               "icon": "lucide-file",
               "title": "Sanatorism"
             }
+          },
+          {
+            "id": "5f0ca675b85640ca",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "src/GEOGRAPHY/CONTINENTS/Ametrie.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Ametrie"
+            }
           }
         ],
-        "currentTab": 7
+        "currentTab": 4
+      },
+      {
+        "id": "27d925f900426e2c",
+        "type": "tabs",
+        "dimension": 26.635822868473234,
+        "children": [
+          {
+            "id": "8b16566f8f6760aa",
+            "type": "leaf",
+            "pinned": true,
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "src/Hidden/Style Guide.md",
+                "mode": "source",
+                "source": false
+              },
+              "pinned": true,
+              "icon": "lucide-file",
+              "title": "Style Guide"
+            }
+          },
+          {
+            "id": "a98818f0623756cc",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "src/Hidden/Names.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Names"
+            }
+          },
+          {
+            "id": "05ba9a84394ab698",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "src/GEOGRAPHY/CONTINENTS/Apihia.md",
+                "mode": "preview",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Apihia"
+            }
+          }
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -294,53 +331,53 @@
   },
   "active": "85b1c2de8bd797fd",
   "lastOpenFiles": [
-    "src/RELIGIONS/Rotatorism.md",
-    "src/RELIGIONS/Kreatism.md",
-    "src/RELIGIONS/Accretionism.md",
-    "src/GEOGRAPHY/Plates.md",
-    "src/GEOGRAPHY/The World.md",
-    "src/GEOGRAPHY/Catastrophe Zones.md",
-    "src/HISTORY/3 - CURRENT ERA/2999 - Late/Borealis Launch.md",
-    "src/TECHNOLOGY/Interplate Vessels.md",
-    "src/TECHNOLOGY/Omega Bombs.md",
-    "src/TECHNOLOGY/Sprit.md",
-    "src/GEOGRAPHY/CONTINENTS/Ametrie.md",
-    "src/TECHNOLOGY/Form.md",
-    "src/GEOGRAPHY/CONTINENTS/Apeter.md",
-    "src/RELIGIONS/Sanatorism.md",
-    "src/COUNTRIES/Ametrie/City-State of Villuvi.md",
     "src/Hidden/Names.md",
+    "src/GEOGRAPHY/CONTINENTS/Apihia.md",
+    "src/Hidden/Style Guide.md",
+    "src/RELIGIONS/Rotatorism.md",
+    "src/RELIGIONS/Sanatorism.md",
+    "src/RELIGIONS/Manism.md",
+    "src/RELIGIONS/Kreatism.md",
+    "src/HISTORY/History of the World.md",
+    "src/GEOGRAPHY/CONTINENTS/Ametrie.md",
+    "src/RELIGIONS/Accretionism.md",
+    "src/TECHNOLOGY/Interplate Vessels.md",
+    "src/HISTORY/1 - FRACTURED ERA/Stentorian Ruin.md",
+    "src/GEOGRAPHY/Mirus.md",
+    "src/Hidden/Main.md",
     "src/Hidden/system.md",
-    "src/CHARACTERS/Andre Passo.md",
-    "src/CHARACTERS/Marina da Costa.md",
-    "src/CHARACTERS/Rodrigo Boler.md",
+    "src/Hidden/Untitled.md",
+    "src/TECHNOLOGY/Formatite.md",
+    "src/COUNTRIES/Ametrie/City-State of Villuvi.md",
+    "src/COUNTRIES/Ametrie/Acuvalli.md",
+    "src/COUNTRIES/Ametrie/Kingdom of Papoli.md",
+    "src/COUNTRIES/Ametrie/Limme.md",
+    "src/COUNTRIES/Adalaidia/Barra.md",
+    "src/COUNTRIES/Adalaidia/Chrysopelagi.md",
+    "src/COUNTRIES/Adalaidia/flag_teresal.png",
     "src/COUNTRIES/Adalaidia/Republic of Teresal.md",
-    "src/CHARACTERS/Untitled.md",
-    "src/CHARACTERS/placeholder/maria_bethania.jpg",
+    "src/COUNTRIES/Fortuna/Democratic Oumun.md",
+    "src/CHARACTERS/Rodrigo Boler.md",
     "src/CHARACTERS/placeholder/Raul_Seixas_(1972)_colorized.tif.jpg",
+    "src/CHARACTERS/placeholder/rodrigo-new.png",
+    "src/CHARACTERS/placeholder/marina-new.png",
+    "src/CHARACTERS/placeholder/andre-new.png",
+    "src/HISTORY/4 - CURRENT ERA/Untitled",
+    "src/HISTORY/3 - NAVIGATIONS",
+    "src/HISTORY/2 - RECONSTRUCTION",
+    "src/CHARACTERS/placeholder/maria_bethania.jpg",
     "src/CHARACTERS/placeholder/Gilberto_Gil,_nos_anos_1960_2.tif.jpg",
     "src/CHARACTERS/placeholder",
-    "templates/character.md",
-    "templates/country.md",
-    "src/Hidden/Untitled.md",
     "src/RELIGIONS/Religions.canvas",
-    "src/HISTORY/1 - FRACTURED ERA/Stentorian Ruin.md",
-    "src/HISTORY/3 - CURRENT ERA/2999 - Late",
-    "src/HISTORY/3 - CURRENT ERA/2950 - Mid",
-    "src/HISTORY/3 - CURRENT ERA/2900 - Early",
+    "src/HISTORY/4 - CURRENT ERA/2999 - Late",
+    "src/HISTORY/4 - CURRENT ERA/2950 - Mid",
+    "src/HISTORY/4 - CURRENT ERA/2900 - Early",
     "src/Hidden",
     "src/GEOGRAPHY/CONTINENTS/png/rosalia.png",
     "src/GEOGRAPHY/CONTINENTS/png/ametrie.png",
     "src/GEOGRAPHY/world.png",
     "src/RELIGIONS/img",
-    "src/COUNTRIES/Adalaidia/flag_teresal.png",
     "src/GEOGRAPHY/CONTINENTS/png",
-    "src/COUNTRIES/Makro/mater&twins_ametrie.png",
-    "src/COUNTRIES/Apetra",
-    "src/COUNTRIES/Makro",
-    "src/HISTORY/2 - SANITY ERA",
-    "src/GEOGRAPHY/world1.png",
-    "world.png",
     "src/GEOGRAPHY/Plates.canvas",
     "CHARACTERS/Untitled.canvas"
   ]

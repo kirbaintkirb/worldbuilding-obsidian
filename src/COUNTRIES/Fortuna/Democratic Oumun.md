@@ -7,7 +7,7 @@
 > | Plate | [[Fortuna]] |
 > | --- | --- |
 > | Largest city | [[Yazhou]] |
-> | Official language(s) | Konese (Zhu) |
+> | Official language(s) | Konese (Zhu), Cortonese |
 > | Demonym | Konese |
 
 Democratic Oumun, also known as Kon, is a county in the plate of [[Fortuna]]

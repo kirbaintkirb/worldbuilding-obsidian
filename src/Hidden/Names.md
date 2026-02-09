@@ -7,6 +7,8 @@ This serves as a general list of terminology so i don't forget it, it can also b
 Ancient History
 - [[Stentorian Ruin]]
 
+Reconstruction
+
 Navigations Age
 
 Sanity Age
@@ -18,7 +20,7 @@ Sanity Age
 - 
 ## Geography
 
-- [[The World]]
+- [[Mirus]]
 - [[Catastrophe Zones]]
 
 ### Plates
@@ -28,7 +30,7 @@ Sanity Age
 - [[Rosalia]]
 - [[Makro]]
 - [[Icro]]
-- [[Apeter]]
+- [[Apihia]]
 - [[Poles]]
 - [[Ametrie]]
 - [[Fortuna]]
@@ -47,7 +49,7 @@ Sanity Age
 	- [[Vicuña]]
 	- [[Colibri]]
 	- 
-- Apetr:
+- Apigia:
 	- [[Alda]]
 	- [[Chatte]]
 	- [[Misir]]
@@ -87,11 +89,11 @@ Sanity Age
 - [[Rotatorism]]
 - [[Kreatism]]
 - [[Accretionism]]
+- [[Manism]]
 
 ## Technology
 
-- [[Sprit]]
-- [[Form]]
+- [[Formatite]]
 - [[Interplate Vessels]]
 
 ## Exoterism
