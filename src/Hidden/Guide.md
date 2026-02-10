@@ -34,4 +34,6 @@ This document contains important details about Mirus. Writing for Mirus has a fe
 		* Fortuna
 		* Poles
 		* Kasha
-* Between each plate are the [[Catastrophe Zones]]
+* Between each plate are the [[Catastrophe Zones]].
+	* Catastrophe zones are filled with a substance that keeps the plates divided.
+		* The substance has no name, no flavor, no smell, no color, no visual signifier outside of the the light diffusion

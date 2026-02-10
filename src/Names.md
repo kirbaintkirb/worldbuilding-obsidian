@@ -93,7 +93,6 @@ Sanity Age
 
 ## Technology
 
-- [[Formatite]]
 - [[Interplate Vessels]]
 
 ## Exoterism
