@@ -3,7 +3,7 @@
 > [!infobox| right wikipedia]
 > # Hphagpa Dominion
 > 
-> | Plate | [[Fortuna]] |
+> | Plate | [[Agia]] |
 > | --- | --- |
 > | Largest city | Placeholder |
 > | Official language(s) | Cortonese, Acalite, Papoli |

@@ -4,13 +4,13 @@
 > [!infobox| right wikipedia]
 > # Democratic Oumun
 > 
-> | Plate | [[Fortuna]] |
+> | Plate | [[Agia]] |
 > | --- | --- |
 > | Largest city | [[Yazhou]] |
 > | Official language(s) | Konese (Zhu), Cortonese |
 > | Demonym | Konese |
 
-Democratic Oumun, also known as Kon, is a county in the plate of [[Fortuna]]
+Democratic Oumun, also known as Kon, is a county in the plate of [[Agia]]
 
 ## Meta
 

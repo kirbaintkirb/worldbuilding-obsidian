@@ -1,6 +1,6 @@
 *"Between all of us there is a Black Sea which forbids true connection"*
 
-Catastrophe Zones, CZs, also known colloquially as Black Seas are a catastrophic feature that exists on the edge of every continent of [[Mirus]], they are an extra dense column of substance that rises into the thermosphere, dividing the world into [[Plates]].
+Catastrophe Zones, CZs, also known colloquially as Black Seas are a catastrophic feature that exists on the edge of every continent of [[Mirus]], they are an extra dense column of substance that rises into the thermosphere, dividing the world into [[Globule]].
 
 ## The Edge
 

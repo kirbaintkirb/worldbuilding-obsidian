@@ -6,7 +6,7 @@
       {
         "id": "c31ab745a646a560",
         "type": "tabs",
-        "dimension": 73.36417713152677,
+        "dimension": 49.10773298083278,
         "children": [
           {
             "id": "5e52479cd4f63a17",
@@ -40,12 +40,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "src/GEOGRAPHY/Catastrophe Zones.md",
+                "file": "src/GEOGRAPHY/CONTINENTS/Poles.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Catastrophe Zones"
+              "title": "Poles"
             }
           }
         ],
@@ -54,7 +54,7 @@
       {
         "id": "27d925f900426e2c",
         "type": "tabs",
-        "dimension": 26.635822868473234,
+        "dimension": 50.892267019167214,
         "children": [
           {
             "id": "e5834b99ae27153a",
@@ -274,35 +274,35 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "5a428f70682627e1",
+  "active": "e5834b99ae27153a",
   "lastOpenFiles": [
+    "src/GEOGRAPHY/CONTINENTS/Poles.md",
+    "src/GEOGRAPHY/CONTINENTS/Makro.md",
+    "src/GEOGRAPHY/CONTINENTS/Kasha.md",
+    "src/GEOGRAPHY/CONTINENTS/Apihia.md",
+    "src/GEOGRAPHY/CONTINENTS/Icro.md",
+    "src/GEOGRAPHY/CONTINENTS/Ametrie.md",
+    "src/GEOGRAPHY/CONTINENTS/Agia.md",
     "src/Style Guide.md",
+    "src/GEOGRAPHY/Mirus.md",
+    "src/GEOGRAPHY/Globule.md",
+    "src/Names.md",
     "src/GEOGRAPHY/Catastrophe Zones.md",
     "src/HISTORY/1 - FRACTURED ERA/Stentorian Ruin.md",
-    "src/Names.md",
     "src/TECHNOLOGY/Interplate Vessels.md",
-    "src/GEOGRAPHY/CONTINENTS/Ametrie.md",
     "src/RELIGIONS/Sanatorism.md",
     "src/Hidden/Guide.md",
-    "src/GEOGRAPHY/CONTINENTS/Apihia.md",
     "src/RELIGIONS/Rotatorism.md",
     "src/RELIGIONS/Manism.md",
     "src/RELIGIONS/Kreatism.md",
     "src/HISTORY/History of the World.md",
     "src/RELIGIONS/Accretionism.md",
-    "src/GEOGRAPHY/Mirus.md",
     "src/Hidden/Main.md",
     "src/Hidden/system.md",
     "src/Hidden/Untitled.md",
     "src/TECHNOLOGY/Formatite.md",
     "src/COUNTRIES/Ametrie/City-State of Villuvi.md",
-    "src/COUNTRIES/Ametrie/Acuvalli.md",
-    "src/COUNTRIES/Ametrie/Kingdom of Papoli.md",
-    "src/COUNTRIES/Ametrie/Limme.md",
-    "src/COUNTRIES/Adalaidia/Barra.md",
-    "src/COUNTRIES/Adalaidia/Chrysopelagi.md",
     "src/COUNTRIES/Adalaidia/flag_teresal.png",
-    "src/COUNTRIES/Adalaidia/Republic of Teresal.md",
     "src/CHARACTERS/placeholder/Raul_Seixas_(1972)_colorized.tif.jpg",
     "src/CHARACTERS/placeholder/rodrigo-new.png",
     "src/CHARACTERS/placeholder/marina-new.png",

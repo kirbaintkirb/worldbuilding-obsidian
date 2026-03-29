@@ -25,15 +25,13 @@ Sanity Age
 
 ### Plates
 
-![[world.png]]
-
 - [[Rosalia]]
 - [[Makro]]
 - [[Icro]]
 - [[Apihia]]
 - [[Poles]]
 - [[Ametrie]]
-- [[Fortuna]]
+- [[Agia]]
 - [[Kasha]]
 ### Countries
 

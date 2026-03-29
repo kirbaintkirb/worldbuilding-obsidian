@@ -2,7 +2,7 @@
 
 *"Land of Past Beginnings"*
 
-Apihia or Apedro is one of the five large [[Plates]] in [[Mirus]].
+Apihia or Apedro is one of the five large [[Globule]] in [[Mirus]].
 
 ## List of States and Territories
 

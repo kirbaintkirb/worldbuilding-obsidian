@@ -1,9 +1,9 @@
 *A long long time ago, we did something very wrong, and we haven't recovered since, and we won't recover.*
 
 
-The World, In Chatte: Mirus, in Lydic: Chroma, or Simantare: Varna is a dubiously planetary collection of masses called [[Plates]], separated by [[Catastrophe Zones|still vacuum]]. It is the place where all of life presumably exists and acts.
+The World, In Chatte: Mirus, in Lydic: Chroma, or Simantare: Varna is a dubiously planetary collection of masses called [[Globule]], separated by [[Catastrophe Zones|still vacuum]]. It is the place where all of life presumably exists and acts.
 
-The World has about 5 macro Plates: [[Ametrie]], [[Apihia]], [[Rosalia]], [[Fortuna]] and [[Makro]]. And the three smaller: [[Kasha]], [[Icro]] and [[Poles]]
+The World has about 5 macro Plates: [[Ametrie]], [[Apihia]], [[Rosalia]], [[Agia]] and [[Makro]]. And the three smaller: [[Kasha]], [[Icro]] and [[Poles]]
 
 ```leaflet
 id: world-map

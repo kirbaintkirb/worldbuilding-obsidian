@@ -1,6 +1,6 @@
 "Those days, where everyone was deaf, blind and mute. Not by choice, but by the sheer pressure of the world"
 
-The Stentorian Ruin, or the Stentorian Period is the first defining event of modern history or post-[[Ancient History]], marking the beginning of the [[Fractured Era]]. The Ruin was an event that broke up [[Mirus]] into its modern [[Plates]]. There is no information about what caused it or how Aeden broke into modern Nebula.
+The Stentorian Ruin, or the Stentorian Period is the first defining event of modern history or post-[[Ancient History]], marking the beginning of the [[Fractured Era]]. The Ruin was an event that broke up [[Mirus]] into its modern [[Globule]]. There is no information about what caused it or how Aeden broke into modern Nebula.
 
 ## The Ruin
 
@@ -32,7 +32,7 @@ A secondary case, involving [[Makro]] and [[Rosalia]], where *Carnitte* fossils 
 
 ### Archaeological
 
-Most of the pre-Stentorian records were found in Rose script stellae. Which like fossils, had interplate coherent appearances. Most notably in [[Apihia]], Ametrie and [[Fortuna]], the Rosal Plates. The large quantity of written material indicated that the pre-Stentorian civilization might've been quite advanced, with agricultural and architectural stability strong enough to survive the Stentorian. But since no true translation exists, actual evidence of it being anything more than city dwellers.
+Most of the pre-Stentorian records were found in Rose script stellae. Which like fossils, had interplate coherent appearances. Most notably in [[Apihia]], Ametrie and [[Agia]], the Rosal Plates. The large quantity of written material indicated that the pre-Stentorian civilization might've been quite advanced, with agricultural and architectural stability strong enough to survive the Stentorian. But since no true translation exists, actual evidence of it being anything more than city dwellers.
 
 ## The 40 days
 
